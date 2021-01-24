@@ -62,7 +62,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\AnimationController.cs" />
+    <Compile Include="Assets\Scripts\Animation Scripts\AnimationController.cs" />
+    <Compile Include="Assets\Scripts\Arrow.cs" />
     <Compile Include="Assets\Scripts\DialogManager.cs" />
     <Compile Include="Assets\Scripts\Equipment.cs" />
     <Compile Include="Assets\Scripts\InventoryState.cs" />
@@ -78,6 +79,7 @@
     <Compile Include="Assets\Scripts\QuestLogUIText.cs" />
     <Compile Include="Assets\Scripts\QuestOnButton.cs" />
     <Compile Include="Assets\Scripts\Questlog.cs" />
+    <Compile Include="Assets\Scripts\RangedHitPoint.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\Armor.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\Consumable.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\Dialog.cs" />
