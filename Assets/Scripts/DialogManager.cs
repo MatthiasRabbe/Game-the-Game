@@ -8,6 +8,7 @@ public class DialogManager : MonoBehaviour
     public Text npcNameField;
     public Text dialogTextField;
     public GameObject acceptQuestBtn;
+    public GameObject completeQuestBtn;
     public GameObject dialogPanel;
     #endregion
 
@@ -21,6 +22,21 @@ public class DialogManager : MonoBehaviour
     {
         dialogPanel.SetActive(false);
         acceptQuestBtn.SetActive(false);
+        completeQuestBtn.SetActive(false);
+    }
+
+    public void Update()
+    {
+        if (currentDialog != null && currentDialog.quest.completed)
+        {
+            completeQuestBtn.SetActive(false);
+
+            if (currentDialog.quest.childQuests != null && currentDialog.quest.childQuests.Count > 0)
+            {
+                //The Dialog needs to change as well
+                currentDialog.quest = currentDialog.quest.childQuests[0];
+            }
+        }
     }
 
     public void StartDialog(Dialog diag)
@@ -36,10 +52,12 @@ public class DialogManager : MonoBehaviour
 
     public void AcceptQuest()
     {
-        if (currentDialog.quest != null && !currentDialog.isQuestAccepted)
+        if (currentDialog.quest != null && !currentDialog.quest.isQuestAccepted)
         {
-            GameObject.Find("Questlog").GetComponent<Questlog>().questList.Add(currentDialog.quest);
-            currentDialog.isQuestAccepted = true;
+            var temp = GameObject.Find("Questlog").GetComponent<Questlog>();
+            //Add Quest to Questlog
+            temp.AddQuest(currentDialog.quest);
+            currentDialog.quest.isQuestAccepted = true;
             acceptQuestBtn.SetActive(false);
            
             StopDialog();
@@ -50,6 +68,11 @@ public class DialogManager : MonoBehaviour
     public void ShowDialog()
     {
         dialogTextField.text = conversation[dialogPos];
+    }
+
+    public void ShowDialog(string text)
+    {
+        dialogTextField.text = text;
     }
 
     //Special Case
@@ -73,16 +96,33 @@ public class DialogManager : MonoBehaviour
             acceptQuestBtn.SetActive(false);
         }
         //Show the Accept Quest button if the Dialog has reached its final line of text && the dialog has a quest && the quest hasn't been accepted
-        if (dialogPos == conversation.Count - 1 && currentDialog.quest != null && !currentDialog.isQuestAccepted)
+        if (dialogPos == conversation.Count - 1 && currentDialog.quest != null && !currentDialog.quest.isQuestAccepted)
         {
             acceptQuestBtn.SetActive(true);
 
         }
         //If the quest exists and it has been accepted: Show the "awaiting Quest completion text"
-        if (currentDialog.quest != null && currentDialog.isQuestAccepted)
+        if (currentDialog.quest != null && currentDialog.quest.isQuestAccepted)
         {
             ShowAwaitingQuestDialog();
         }
-        
+
+        if (currentDialog.quest.finished)
+        {
+            acceptQuestBtn.SetActive(false);
+            ShowDialog("Thanks!\nYou've earned your reward!");
+            completeQuestBtn.SetActive(true);
+        }        
+
+        if(currentDialog.quest.completed == true)
+        {
+            acceptQuestBtn.SetActive(false);
+            completeQuestBtn.SetActive(false);
+        }
+    }
+
+    public void CompleteQuest()
+    {
+        currentDialog.quest.CompleteQuest();
     }
 }

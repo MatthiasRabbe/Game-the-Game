@@ -20,12 +20,15 @@ public class PlayerInteraction : MonoBehaviour
     //Add in inspector
     public Questlog questlog;
 
+    [HideInInspector]
+    public SimpleInventoryList questItemInventory;
+
     public void Start()
     {
 
         targetName = GameObject.Find("TargetName").GetComponent<Text>();
         inventoryUI = GameObject.Find("Inventory").GetComponent<InventoryUIConnection>();
-        
+        questItemInventory = GameObject.Find("Inventory").GetComponent<SimpleInventoryList>();
     }
 
     public void SetTarget()
@@ -42,8 +45,14 @@ public class PlayerInteraction : MonoBehaviour
             //Add Item Logic
             if (hit.transform.tag == "Interactable" && Input.GetKey(KeyCode.F))
             {
-
-                if (inventory.AddItem(hit.transform.GetComponent<ItemStats>().itemStats, 1))  //Add Item to Inventory
+                //9 == QuestITem
+                if (hit.transform.gameObject.layer == 9)
+                {
+                    
+                    questItemInventory.items.Add(hit.transform.GetComponent<ItemStats>().itemStats);
+                    Remover.CheckAndRemove(hit.transform.gameObject);
+                }
+                else if (inventory.AddItem(hit.transform.GetComponent<ItemStats>().itemStats, 1))  //Add Item to Inventory
                 {
                     //Update Visual Inventory
                     inventoryUI.UpdateInventoryUI();

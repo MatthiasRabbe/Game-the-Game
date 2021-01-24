@@ -159,7 +159,7 @@ public class PlayerMovement : MonoBehaviour
         }
         else
         {
-            Debug.Log("Infinity");
+            //Debug.Log("Infinity");
             //ray hits nothing --> we are falling --> isGrounded == false
             isGrounded = false;
           

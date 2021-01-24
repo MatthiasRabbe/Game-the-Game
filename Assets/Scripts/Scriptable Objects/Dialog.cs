@@ -9,6 +9,6 @@ public class Dialog : ScriptableObject
    public List<string> dialogLines = new List<string>();
    public string awaitingQuestCompletion;
    public Quest quest;
-   public bool isQuestAccepted = false;
+   //public bool isQuestAccepted = false;
 
 }

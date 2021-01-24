@@ -14,6 +14,8 @@ public class Quest : ScriptableObject
     [SerializeField]
     public bool finished;
     [SerializeField]
+    public bool completed;
+    [SerializeField]
     public List<Item> itemReward;
     [SerializeField]
     public int goldReward;
@@ -22,7 +24,9 @@ public class Quest : ScriptableObject
     [SerializeField]
     public int experienceReward;
 
-   
+    [SerializeField]
+    public bool isQuestAccepted;
+
 
     public string GetTitle()
     {
@@ -95,14 +99,49 @@ public class Quest : ScriptableObject
         {
 
             finished = true;
-            Debug.Log("Quest " + title + " has been completed!");
-            GameObject.Find("Questlog").GetComponent<Questlog>().GrantRewards(goldReward, experienceReward, itemReward, this, true);
+            Debug.Log("Quest " + title + " has been finished! Find the Questgivere to complete it");
+            
             
 
         }
+
+        
        
     }
 
-   
 
+    public List<GameObject> GetQuestGoalItems()
+    {
+        List<GameObject> goalItems = new List<GameObject>();
+
+        for (int i = 0; i < goals.Count; i++)
+        {
+            var currentGoal = goals[i].goal;
+            if (currentGoal != null)
+            {
+                goalItems.Add(goals[i].goal);
+            }
+            
+        }
+
+        if (goalItems.Count == 0)
+        {
+            return null;
+        }
+        else
+        {
+            return goalItems;
+        }
+
+    }
+
+
+    public void CompleteQuest()
+    {
+        if (finished)
+        {        
+            
+            GameObject.Find("Questlog").GetComponent<Questlog>().GrantRewards(goldReward, experienceReward, itemReward, this, false);
+        }
+    }
 }

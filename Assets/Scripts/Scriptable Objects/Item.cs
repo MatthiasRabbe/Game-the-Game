@@ -6,6 +6,23 @@ using UnityEngine.UI;
 [CreateAssetMenu(fileName = "Item", menuName = "ScriptableObjects/Item", order = 1)]
 public class Item : ScriptableObject
 {
+    public enum EquipmentSlot
+    {
+        Helmet,
+        Horns,
+        Neck,
+        Shoudler,
+        UpperArm,
+        LowerArm,
+        Hand,
+        Belt,
+        Groin,
+        UpperLeg,
+        Shin,
+        Backpack,
+        None
+    }
+
     [SerializeField]
     protected string itemName;
     [SerializeField]
@@ -18,6 +35,8 @@ public class Item : ScriptableObject
     protected Sprite itemImage;
     [SerializeField]
     private int stacksize;
+    [SerializeField]
+    public EquipmentSlot equipmentSlot = EquipmentSlot.None;
 
 
     void IncreaseSellValue(int increase)

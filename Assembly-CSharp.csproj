@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{CE9CE954-A7F1-4F33-D71D-6AE43B1D2F6F}</ProjectGuid>
+    <ProjectGuid>{C7240098-2C01-8BFC-ED35-4D82390507E0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -62,27 +62,36 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\AnimationController.cs" />
     <Compile Include="Assets\Scripts\DialogManager.cs" />
+    <Compile Include="Assets\Scripts\Equipment.cs" />
     <Compile Include="Assets\Scripts\InventoryState.cs" />
     <Compile Include="Assets\Scripts\InventoryUIConnection.cs" />
     <Compile Include="Assets\Scripts\ItemDrop.cs" />
     <Compile Include="Assets\Scripts\ItemStats.cs" />
+    <Compile Include="Assets\Scripts\MouseState.cs" />
     <Compile Include="Assets\Scripts\Movement\LookMouse.cs" />
     <Compile Include="Assets\Scripts\Movement\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\NPCConversation.cs" />
     <Compile Include="Assets\Scripts\NPCStats.cs" />
     <Compile Include="Assets\Scripts\PlayerInteraction.cs" />
+    <Compile Include="Assets\Scripts\QuestLogUIText.cs" />
+    <Compile Include="Assets\Scripts\QuestOnButton.cs" />
     <Compile Include="Assets\Scripts\Questlog.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\Armor.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\Consumable.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\Dialog.cs" />
+    <Compile Include="Assets\Scripts\Scriptable Objects\GlobalQuestList.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\Goal.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\InventoryManager.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\Item.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\Quest.cs" />
-    <Compile Include="Assets\Scripts\Scriptable Objects\SimpleInventoryList.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\Stats.cs" />
+    <Compile Include="Assets\Scripts\SetTextField.cs" />
+    <Compile Include="Assets\Scripts\SimpleInventoryList.cs" />
     <Compile Include="Assets\Scripts\Statics\Remover.cs" />
+    <Compile Include="Assets\Scripts\UIControler.cs" />
+    <Compile Include="Assets\Scripts\UpdateUIQuestList.cs" />
     <None Include="Assets\Sky\Fantasy Skybox FREE\Readme.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -613,31 +622,31 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/Admin/Desktop/Projektabgabe PRG 1901 Dez/Abgabe/Gebhardt/Abgabe_MikoGebhardt/Learning RPG Programming/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/Admin/Documents/Game the Game RPG/Game-the-Game/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/Admin/Desktop/Projektabgabe PRG 1901 Dez/Abgabe/Gebhardt/Abgabe_MikoGebhardt/Learning RPG Programming/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/Admin/Documents/Game the Game RPG/Game-the-Game/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Admin/Desktop/Projektabgabe PRG 1901 Dez/Abgabe/Gebhardt/Abgabe_MikoGebhardt/Learning RPG Programming/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Admin/Documents/Game the Game RPG/Game-the-Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/Admin/Desktop/Projektabgabe PRG 1901 Dez/Abgabe/Gebhardt/Abgabe_MikoGebhardt/Learning RPG Programming/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/Admin/Documents/Game the Game RPG/Game-the-Game/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/Admin/Desktop/Projektabgabe PRG 1901 Dez/Abgabe/Gebhardt/Abgabe_MikoGebhardt/Learning RPG Programming/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/Admin/Documents/Game the Game RPG/Game-the-Game/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Admin/Desktop/Projektabgabe PRG 1901 Dez/Abgabe/Gebhardt/Abgabe_MikoGebhardt/Learning RPG Programming/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Admin/Documents/Game the Game RPG/Game-the-Game/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/Admin/Desktop/Projektabgabe PRG 1901 Dez/Abgabe/Gebhardt/Abgabe_MikoGebhardt/Learning RPG Programming/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/Admin/Documents/Game the Game RPG/Game-the-Game/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Admin/Desktop/Projektabgabe PRG 1901 Dez/Abgabe/Gebhardt/Abgabe_MikoGebhardt/Learning RPG Programming/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Admin/Documents/Game the Game RPG/Game-the-Game/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Admin/Desktop/Projektabgabe PRG 1901 Dez/Abgabe/Gebhardt/Abgabe_MikoGebhardt/Learning RPG Programming/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/Admin/Documents/Game the Game RPG/Game-the-Game/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
