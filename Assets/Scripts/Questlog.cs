@@ -4,40 +4,66 @@ using UnityEngine;
 
 public class Questlog : MonoBehaviour
 {
-
-    public List<Quest> questList;
+    [SerializeField]
+    private List<Quest> questList = new List<Quest>();
 
     private Stats playerStats;
 
     public InventoryManager playerInventory;
+   
+
+    public UpdateUIQuestList uiQuestList;
+    public GlobalQuestList globalQuestList;
 
 
     public void Start()
     {
-        //Required the GameObject called "Player" to have the Stats script attach
+        //Required the GameObject called "Player" to have the Stats script attached
         playerStats = GameObject.Find("Player").GetComponent<Stats>();
+        //uiQuestList = GameObject.Find("QuestlogContent").GetComponent<UpdateUIQuestList>();
+
+        UpdateLocalQuestlist();
+    }
+
+    private void UpdateLocalQuestlist()
+    {
+
+        List<Quest> newList = new List<Quest>();
+
+        foreach (Quest quest in globalQuestList.globalQuestList)
+        {
+            if (!quest.finished && quest.isQuestAccepted)
+            {
+                newList.Add(quest);
+            }
+        }
+        //override
+        questList = newList;
     }
 
 
     public void CheckAddProgress(GameObject possibleGoal)
     {
+       
+
         //Quest handling
         for (int i =0; i < questList.Count; i++)
         {
 
+           
             var currentQuestGoals = questList[i].GetGoals();
             //Goal handling
             for (int j = 0; j < questList[i].GetGoals().Count; j++)
             {
+                
                 var currentGoal = questList[i].GetGoals()[j];
-
+               
                 //Checks if the item/monster  we just picked up/ destroyed contains the string we need for our goal
                 if (possibleGoal.name.Contains(currentGoal.goal.name) && currentGoal.goalType != Goal.GoalType.Find)
-                {
+                {                    
+
                     currentGoal.QuestAddProgress(1);
                     questList[i].CheckQuestStatus();
-
-
                     break;
 
                 }
@@ -53,7 +79,7 @@ public class Questlog : MonoBehaviour
             }
 
         }
-
+        UpdateLocalQuestlist();
     }
 
     public void GrantRewards(int gold, int xP, List<Item> items, Quest quest, bool resetQuest)
@@ -67,6 +93,8 @@ public class Questlog : MonoBehaviour
             {
                 if (playerInventory.AddItem(newItem, 1))
                 {
+                    //dezentrale completion
+                    quest.completed = true;
                     successful = true;
                 }
                 else
@@ -98,6 +126,29 @@ public class Questlog : MonoBehaviour
             quest.ResetQuest();
         }
 
-        questList.Remove(quest);
+        //questList.Remove(quest);
+        quest.isQuestAccepted = false;
+
+        UpdateLocalQuestlist();
+
+
     }
+
+    public void AddQuest(Quest newQuest)
+    {
+        //questList.Add(newQuest);
+        uiQuestList.AddToUI(newQuest);
+        newQuest.isQuestAccepted = true;
+
+        UpdateLocalQuestlist();
+    }
+
+    public List<Quest> GetQuestList()
+    {
+        return questList;
+    }
+
+
+
+    
 }

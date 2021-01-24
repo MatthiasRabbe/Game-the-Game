@@ -10,37 +10,16 @@ public class InventoryState : MonoBehaviour
     public void OpenInventory()
     {
         inventoryPanel.SetActive(true);
-        Cursor.lockState = CursorLockMode.None;
+        //Cursor.lockState = CursorLockMode.None;
 
     }
 
     public void CloseInventory()
     {
         inventoryPanel.SetActive(false);
-        Cursor.lockState = CursorLockMode.Locked;
+        //Cursor.lockState = CursorLockMode.Locked;
     }
 
-    public void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.I))
-        {
-            if (inventoryPanel.activeSelf)
-            {
-                CloseInventory();
-            }
-            else
-            {
-                OpenInventory();
-            }
-
-
-        }
-
-        if (Input.GetKeyDown(KeyCode.Escape))
-        {
-                CloseInventory();       
-
-        }
-    }
+   
 
 }

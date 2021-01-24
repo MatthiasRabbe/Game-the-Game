@@ -35,7 +35,7 @@ public class Goal : ScriptableObject
     }
     public virtual void QuestAddProgress(int amount)
     {
-   
+
             countCurrent += amount;
 
             countCurrent = Mathf.Clamp(countCurrent, 0, countRequired);
@@ -45,7 +45,7 @@ public class Goal : ScriptableObject
                 if (countCurrent >= countRequired)
                 {
                     completed = true;
-                    Debug.Log("Goal finished");
+                    
                 }
 
             }
