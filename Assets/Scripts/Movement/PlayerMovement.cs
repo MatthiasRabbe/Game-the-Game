@@ -31,7 +31,7 @@ public class PlayerMovement : MonoBehaviour
 
         //Load these via PlayerConfig Scriptable Object
         speed = 6f;
-        speedModifier = 1.1f;
+        speedModifier = 1.5f;
         
         //jumpPower = 2f;
 

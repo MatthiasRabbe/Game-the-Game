@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 677, y: 492}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
-  controlID: 16
+  controlID: 64
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 17
+  controlID: 150
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 18
+  controlID: 151
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -220,7 +220,7 @@ MonoBehaviour:
   - {fileID: 15}
   - {fileID: 16}
   m_Selected: 0
-  m_LastSelected: 2
+  m_LastSelected: 1
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -394,10 +394,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 13}
-      m_SelectedIDs: ca5a0000
+      scrollPos: {x: 0, y: 32}
+      m_SelectedIDs: ac460000
       m_LastClickedID: 0
-      m_ExpandedIDs: 0e0fffff28e5ffff68fbffff
+      m_ExpandedIDs: 888efeff6662ffffd48dffff728effffaca0ffffacf9ffffdafaffff68fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -457,9 +457,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 19.92395, y: 1.3617461, z: 44.639496}
+    m_Target: {x: 93.60183, y: 6.8936186, z: 170.00192}
     speed: 2
-    m_Value: {x: 19.92395, y: 1.3617461, z: 44.639496}
+    m_Value: {x: 93.60183, y: 6.8936186, z: 170.00192}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -505,13 +505,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.29243207, y: -0.6351275, z: 0.28264776, w: -0.65676886}
+    m_Target: {x: -0.105517015, y: -0.50903827, z: 0.06325583, w: -0.85217774}
     speed: 2
-    m_Value: {x: -0.29339644, y: -0.6346588, z: 0.28358063, w: -0.65628403}
+    m_Value: {x: -0.10412103, y: -0.51029265, z: 0.06263351, w: -0.8513737}
   m_Size:
-    m_Target: 18.085644
+    m_Target: 1.3294001
     speed: 2
-    m_Value: 17.306837
+    m_Value: 1.3294044
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -736,20 +736,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs/Buildings
+    - Assets/Prefabs/Models/Building
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs/Buildings
+  - Assets/Prefabs/Models/Building
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 19}
-    m_SelectedIDs: 48580000
-    m_LastClickedID: 22600
-    m_ExpandedIDs: 00000000203d0000223d00003a3d00003c3d0000523d0000943d0000ee48000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: ac460000
+    m_LastClickedID: 18092
+    m_ExpandedIDs: 000000005a4200005c420000664200006a4200008a4200008e42000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -765,7 +765,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 10}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -777,7 +777,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000203d0000223d0000
+    m_ExpandedIDs: 000000005a4200005c420000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -805,7 +805,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000063b0000263a0000323a00008e330000783d00000a3d0000ec350000
+    m_ExpandedInstanceIDs: c6230000063b0000263a0000323a00008e330000783d00000a3d0000ec350000989a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

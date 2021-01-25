@@ -52,7 +52,7 @@ public class Arrow : MonoBehaviour
         rb.useGravity = true;
         
         
-        yield return new WaitForSeconds(0.1f);
+        yield return new WaitForSeconds(0.05f);
         v1 = transform.position;
         rb.transform.GetComponent<CapsuleCollider>().enabled = true;
         flying = true;
@@ -60,6 +60,7 @@ public class Arrow : MonoBehaviour
 
     private void FixedUpdate()
     {
+        //The Arrow dips its head towards the Velocity vector
         if (rb.velocity != Vector3.zero)
             rb.rotation = Quaternion.LookRotation(rb.velocity);
 
@@ -132,7 +133,10 @@ public class Arrow : MonoBehaviour
             collision.transform.GetComponent<NPCStats>().SufferDamage(damage, GameObject.Find("Player").GetComponent<Stats>());
             rb.useGravity = false;
             rb.isKinematic = true;
+            rb.velocity = Vector3.zero;
+            this.transform.position += transform.forward * power / 250; //depth of being stuck inside the NPC/wall
             this.transform.SetParent(collision.transform);
+           
             
     
             Debug.Log("Hit Target Enemy" + damage);
