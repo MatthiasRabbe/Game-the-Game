@@ -70,7 +70,7 @@ public class Shoot : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (canFire) {
+        if (canFire && animContrl.isCombat) {
             if (Input.GetMouseButtonDown(0))
             {
                 anim.SetLayerWeight(1, 1);
