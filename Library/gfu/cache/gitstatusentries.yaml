@@ -13,157 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-01-26T15:06:36.232+01:00
-  initializedAtString: 2021-01-26T13:57:23.799+01:00
+  lastUpdatedAtString: 2021-01-26T15:08:03.951+01:00
+  initializedAtString: 2021-01-26T15:08:03.951+01:00
   entries:
   - path: .gitignore
     fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\.gitignore
     projectPath: .gitignore
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: .vs\Game-the-Game\v15\.suo
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\.vs\Game-the-Game\v15\.suo
-    projectPath: .vs\Game-the-Game\v15\.suo
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: .vs\Game-the-Game\v15\Server\sqlite3\storage.ide
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\.vs\Game-the-Game\v15\Server\sqlite3\storage.ide
-    projectPath: .vs\Game-the-Game\v15\Server\sqlite3\storage.ide
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: .vs\Game-the-Game\v15\Server\sqlite3\storage.ide-shm
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\.vs\Game-the-Game\v15\Server\sqlite3\storage.ide-shm
-    projectPath: .vs\Game-the-Game\v15\Server\sqlite3\storage.ide-shm
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: .vs\Game-the-Game\v15\Server\sqlite3\storage.ide-wal
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\.vs\Game-the-Game\v15\Server\sqlite3\storage.ide-wal
-    projectPath: .vs\Game-the-Game\v15\Server\sqlite3\storage.ide-wal
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Animation\Animation Controllers.meta
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Assets\Animation\Animation
-      Controllers.meta
-    projectPath: Assets\Animation\Animation Controllers.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Animation\Player Animations\Bow.controller
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Assets\Animation\Player
-      Animations\Bow.controller
-    projectPath: Assets\Animation\Player Animations\Bow.controller
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Animation\Player Animations\Female Locomotion\jump.fbx.meta
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Assets\Animation\Player
-      Animations\Female Locomotion\jump.fbx.meta
-    projectPath: Assets\Animation\Player Animations\Female Locomotion\jump.fbx.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Animation\Player Animations\Female Locomotion\left strafe walk.fbx.meta
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Assets\Animation\Player
-      Animations\Female Locomotion\left strafe walk.fbx.meta
-    projectPath: Assets\Animation\Player Animations\Female Locomotion\left strafe
-      walk.fbx.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Animation\Player Animations\Female Locomotion\left strafe.fbx.meta
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Assets\Animation\Player
-      Animations\Female Locomotion\left strafe.fbx.meta
-    projectPath: Assets\Animation\Player Animations\Female Locomotion\left strafe.fbx.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Animation\Player Animations\Female Locomotion\right strafe walk.fbx.meta
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Assets\Animation\Player
-      Animations\Female Locomotion\right strafe walk.fbx.meta
-    projectPath: Assets\Animation\Player Animations\Female Locomotion\right strafe
-      walk.fbx.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Animation\Player Animations\Female Locomotion\right strafe.fbx.meta
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Assets\Animation\Player
-      Animations\Female Locomotion\right strafe.fbx.meta
-    projectPath: Assets\Animation\Player Animations\Female Locomotion\right strafe.fbx.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Animation\Player Animations\Female Locomotion\running.fbx.meta
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Assets\Animation\Player
-      Animations\Female Locomotion\running.fbx.meta
-    projectPath: Assets\Animation\Player Animations\Female Locomotion\running.fbx.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Animation\Player Animations\Female Locomotion\walking.fbx.meta
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Assets\Animation\Player
-      Animations\Female Locomotion\walking.fbx.meta
-    projectPath: Assets\Animation\Player Animations\Female Locomotion\walking.fbx.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Prefabs\Enemy.prefab
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Assets\Prefabs\Enemy.prefab
-    projectPath: Assets\Prefabs\Enemy.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Prefabs\Player.prefab
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Assets\Prefabs\Player.prefab
-    projectPath: Assets\Prefabs\Player.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scenes\The Crossing.unity
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Assets\Scenes\The
-      Crossing.unity
-    projectPath: Assets\Scenes\The Crossing.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Animation Scripts\AnimationController.cs
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Assets\Scripts\Animation
-      Scripts\AnimationController.cs
-    projectPath: Assets\Scripts\Animation Scripts\AnimationController.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Arrow.cs
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Assets\Scripts\Arrow.cs
-    projectPath: Assets\Scripts\Arrow.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Shoot.cs
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Assets\Scripts\Shoot.cs
-    projectPath: Assets\Scripts\Shoot.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Shoot.cs.meta
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Assets\Scripts\Shoot.cs.meta
-    projectPath: Assets\Scripts\Shoot.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\APIUpdater\project-dependencies.graph
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\APIUpdater\project-dependencies.graph
-    projectPath: Library\APIUpdater\project-dependencies.graph
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -173,1365 +28,909 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\00\0005557a36d45c86c628fde5f08acfe7
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\00\0005557a36d45c86c628fde5f08acfe7
-    projectPath: Library\Artifacts\00\0005557a36d45c86c628fde5f08acfe7
+  - path: Library\Artifacts\00\002b3f50e21a88f0b5c50d8a9057ad8a
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\00\002b3f50e21a88f0b5c50d8a9057ad8a
+    projectPath: Library\Artifacts\00\002b3f50e21a88f0b5c50d8a9057ad8a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\01\01d4b80fda2fda63fdb6b47f38d82a82
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\01\01d4b80fda2fda63fdb6b47f38d82a82
-    projectPath: Library\Artifacts\01\01d4b80fda2fda63fdb6b47f38d82a82
+  - path: Library\Artifacts\01\01b641d3abef1d0d82c416f1bf5a498d
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\01\01b641d3abef1d0d82c416f1bf5a498d
+    projectPath: Library\Artifacts\01\01b641d3abef1d0d82c416f1bf5a498d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\04\04cdc465e4b4a458a853f3a1879fa628
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\04\04cdc465e4b4a458a853f3a1879fa628
-    projectPath: Library\Artifacts\04\04cdc465e4b4a458a853f3a1879fa628
+  - path: Library\Artifacts\04\040c6f63bbcd55fc0b6e8161bea88e91
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\04\040c6f63bbcd55fc0b6e8161bea88e91
+    projectPath: Library\Artifacts\04\040c6f63bbcd55fc0b6e8161bea88e91
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\05\05b11f9d4f9f80bad55d18ac0b15572c
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\05\05b11f9d4f9f80bad55d18ac0b15572c
-    projectPath: Library\Artifacts\05\05b11f9d4f9f80bad55d18ac0b15572c
+  - path: Library\Artifacts\06\0649f88cbbd20e661316a80bef0120de
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\06\0649f88cbbd20e661316a80bef0120de
+    projectPath: Library\Artifacts\06\0649f88cbbd20e661316a80bef0120de
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\09\09fc027ff183426d90e9dc27aad0b557
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\09\09fc027ff183426d90e9dc27aad0b557
-    projectPath: Library\Artifacts\09\09fc027ff183426d90e9dc27aad0b557
+  - path: Library\Artifacts\06\0693d8175566103d0ef151398ee3b715
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\06\0693d8175566103d0ef151398ee3b715
+    projectPath: Library\Artifacts\06\0693d8175566103d0ef151398ee3b715
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\0b\0b33f9ea3da772b4bd9c1201b38ca611
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\0b\0b33f9ea3da772b4bd9c1201b38ca611
-    projectPath: Library\Artifacts\0b\0b33f9ea3da772b4bd9c1201b38ca611
+  - path: Library\Artifacts\06\06bcb6fef4a2d5130da33473c75398d9
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\06\06bcb6fef4a2d5130da33473c75398d9
+    projectPath: Library\Artifacts\06\06bcb6fef4a2d5130da33473c75398d9
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\0d\0dbb3b6e4708efe9f3451519bee765ad
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\0d\0dbb3b6e4708efe9f3451519bee765ad
-    projectPath: Library\Artifacts\0d\0dbb3b6e4708efe9f3451519bee765ad
+  - path: Library\Artifacts\08\08cafa1d6a36f48714778467cbdc3642
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\08\08cafa1d6a36f48714778467cbdc3642
+    projectPath: Library\Artifacts\08\08cafa1d6a36f48714778467cbdc3642
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\11\1105e750ec40d90029b2f0ddfad2658e
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\11\1105e750ec40d90029b2f0ddfad2658e
-    projectPath: Library\Artifacts\11\1105e750ec40d90029b2f0ddfad2658e
+  - path: Library\Artifacts\0c\0c02a86f6cc4ca85add6159a503652ec
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\0c\0c02a86f6cc4ca85add6159a503652ec
+    projectPath: Library\Artifacts\0c\0c02a86f6cc4ca85add6159a503652ec
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\11\112f4be0619b0ac91bb4f3527dcdf9a0
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\11\112f4be0619b0ac91bb4f3527dcdf9a0
-    projectPath: Library\Artifacts\11\112f4be0619b0ac91bb4f3527dcdf9a0
+  - path: Library\Artifacts\0e\0edcd7d8e1da7fc14489bae963676bd1
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\0e\0edcd7d8e1da7fc14489bae963676bd1
+    projectPath: Library\Artifacts\0e\0edcd7d8e1da7fc14489bae963676bd1
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\13\133a853bd297f1651ae0ad3aef0bcf65
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\13\133a853bd297f1651ae0ad3aef0bcf65
-    projectPath: Library\Artifacts\13\133a853bd297f1651ae0ad3aef0bcf65
+  - path: Library\Artifacts\0f\0fb01215d46e6029e2ccef5e6171aa2c
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\0f\0fb01215d46e6029e2ccef5e6171aa2c
+    projectPath: Library\Artifacts\0f\0fb01215d46e6029e2ccef5e6171aa2c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\13\13fd1874e98d9c5203a1f3a67263bec6
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\13\13fd1874e98d9c5203a1f3a67263bec6
-    projectPath: Library\Artifacts\13\13fd1874e98d9c5203a1f3a67263bec6
+  - path: Library\Artifacts\10\100fe6266ceebbfe0d6f20e4d67d7391
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\10\100fe6266ceebbfe0d6f20e4d67d7391
+    projectPath: Library\Artifacts\10\100fe6266ceebbfe0d6f20e4d67d7391
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\14\143650a6ee3bc868c72af9a36b9b0d7f
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\14\143650a6ee3bc868c72af9a36b9b0d7f
-    projectPath: Library\Artifacts\14\143650a6ee3bc868c72af9a36b9b0d7f
+  - path: Library\Artifacts\11\11bfa219ea94fcd8678354c00f091605
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\11\11bfa219ea94fcd8678354c00f091605
+    projectPath: Library\Artifacts\11\11bfa219ea94fcd8678354c00f091605
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\14\14b03b14c7293bb914030c62f68d49be
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\14\14b03b14c7293bb914030c62f68d49be
-    projectPath: Library\Artifacts\14\14b03b14c7293bb914030c62f68d49be
+  - path: Library\Artifacts\12\121b2bf20e19201b662cc60d0fa28bf3
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\12\121b2bf20e19201b662cc60d0fa28bf3
+    projectPath: Library\Artifacts\12\121b2bf20e19201b662cc60d0fa28bf3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\15\15b49c8adc0b967336a9a88ac4d7a118
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\15\15b49c8adc0b967336a9a88ac4d7a118
-    projectPath: Library\Artifacts\15\15b49c8adc0b967336a9a88ac4d7a118
+  - path: Library\Artifacts\18\186584b664ad558ebb146c5a9b9f24a3
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\18\186584b664ad558ebb146c5a9b9f24a3
+    projectPath: Library\Artifacts\18\186584b664ad558ebb146c5a9b9f24a3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\19\19af7da8c445a7686326649666475f7b
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\19\19af7da8c445a7686326649666475f7b
-    projectPath: Library\Artifacts\19\19af7da8c445a7686326649666475f7b
+  - path: Library\Artifacts\1e\1edc96c6715da0805e1c2b35bc2a3e88
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\1e\1edc96c6715da0805e1c2b35bc2a3e88
+    projectPath: Library\Artifacts\1e\1edc96c6715da0805e1c2b35bc2a3e88
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\19\19db1d5f0062183e4ee969d4663e7f3f
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\19\19db1d5f0062183e4ee969d4663e7f3f
-    projectPath: Library\Artifacts\19\19db1d5f0062183e4ee969d4663e7f3f
+  - path: Library\Artifacts\1e\1ee254a36d131f410a2f4c2721aef1eb
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\1e\1ee254a36d131f410a2f4c2721aef1eb
+    projectPath: Library\Artifacts\1e\1ee254a36d131f410a2f4c2721aef1eb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\1a\1afea8d702cd92ed1cc377290dfe6311
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\1a\1afea8d702cd92ed1cc377290dfe6311
-    projectPath: Library\Artifacts\1a\1afea8d702cd92ed1cc377290dfe6311
+  - path: Library\Artifacts\20\209346a557a292e56038d944ede3a7e8
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\20\209346a557a292e56038d944ede3a7e8
+    projectPath: Library\Artifacts\20\209346a557a292e56038d944ede3a7e8
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\1e\1ec45b82a0e7e2b7ec533c938ec9abfd
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\1e\1ec45b82a0e7e2b7ec533c938ec9abfd
-    projectPath: Library\Artifacts\1e\1ec45b82a0e7e2b7ec533c938ec9abfd
+  - path: Library\Artifacts\21\2184d125b8148ecbed9e66fb41796183
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\21\2184d125b8148ecbed9e66fb41796183
+    projectPath: Library\Artifacts\21\2184d125b8148ecbed9e66fb41796183
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\20\20d862761e54b9743b456dea5852b52b
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\20\20d862761e54b9743b456dea5852b52b
-    projectPath: Library\Artifacts\20\20d862761e54b9743b456dea5852b52b
+  - path: Library\Artifacts\22\22a09dde2ca6e4a522be66a4de460ab2
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\22\22a09dde2ca6e4a522be66a4de460ab2
+    projectPath: Library\Artifacts\22\22a09dde2ca6e4a522be66a4de460ab2
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\21\215035f991cb022904d0641565484515
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\21\215035f991cb022904d0641565484515
-    projectPath: Library\Artifacts\21\215035f991cb022904d0641565484515
+  - path: Library\Artifacts\22\22dd6d2ce9cf2fe007f61046653a9cd5
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\22\22dd6d2ce9cf2fe007f61046653a9cd5
+    projectPath: Library\Artifacts\22\22dd6d2ce9cf2fe007f61046653a9cd5
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\22\220f39c7725f9c0f1a6f5d9a0d4fcbf4
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\22\220f39c7725f9c0f1a6f5d9a0d4fcbf4
-    projectPath: Library\Artifacts\22\220f39c7725f9c0f1a6f5d9a0d4fcbf4
+  - path: Library\Artifacts\23\234a5de4dc6edade3f1ad1a3694d1c43
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\23\234a5de4dc6edade3f1ad1a3694d1c43
+    projectPath: Library\Artifacts\23\234a5de4dc6edade3f1ad1a3694d1c43
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\23\23ae68f3b59a2676e2236057ea1a5c65
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\23\23ae68f3b59a2676e2236057ea1a5c65
-    projectPath: Library\Artifacts\23\23ae68f3b59a2676e2236057ea1a5c65
+  - path: Library\Artifacts\24\24329bd44ed273a82b63f1f7d8faec17
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\24\24329bd44ed273a82b63f1f7d8faec17
+    projectPath: Library\Artifacts\24\24329bd44ed273a82b63f1f7d8faec17
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\24\24426ad08001a17eb2aaa5adbca931ea
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\24\24426ad08001a17eb2aaa5adbca931ea
-    projectPath: Library\Artifacts\24\24426ad08001a17eb2aaa5adbca931ea
+  - path: Library\Artifacts\26\260cb38de254d65a9572d410da56b349
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\26\260cb38de254d65a9572d410da56b349
+    projectPath: Library\Artifacts\26\260cb38de254d65a9572d410da56b349
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\25\256448a26847e0da7c1b38a97d54e0e3
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\25\256448a26847e0da7c1b38a97d54e0e3
-    projectPath: Library\Artifacts\25\256448a26847e0da7c1b38a97d54e0e3
+  - path: Library\Artifacts\26\263e5dab276709fe15d38b11ee07c8ad
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\26\263e5dab276709fe15d38b11ee07c8ad
+    projectPath: Library\Artifacts\26\263e5dab276709fe15d38b11ee07c8ad
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\27\27aabf57af561b51069633c14b0eb4dc
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\27\27aabf57af561b51069633c14b0eb4dc
-    projectPath: Library\Artifacts\27\27aabf57af561b51069633c14b0eb4dc
+  - path: Library\Artifacts\28\280c64165f802f234f347408fdbfffc5
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\28\280c64165f802f234f347408fdbfffc5
+    projectPath: Library\Artifacts\28\280c64165f802f234f347408fdbfffc5
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\28\28482312ceffa17c9bea80d8b58fe973
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\28\28482312ceffa17c9bea80d8b58fe973
-    projectPath: Library\Artifacts\28\28482312ceffa17c9bea80d8b58fe973
+  - path: Library\Artifacts\2a\2aedc63b10208203f7711e2cf7fa589a
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\2a\2aedc63b10208203f7711e2cf7fa589a
+    projectPath: Library\Artifacts\2a\2aedc63b10208203f7711e2cf7fa589a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\28\28ba6c5419fd8cd5a0d51ae5ecfd1843
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\28\28ba6c5419fd8cd5a0d51ae5ecfd1843
-    projectPath: Library\Artifacts\28\28ba6c5419fd8cd5a0d51ae5ecfd1843
+  - path: Library\Artifacts\2e\2ef9b7a61a5c73b414e83786d2dbe532
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\2e\2ef9b7a61a5c73b414e83786d2dbe532
+    projectPath: Library\Artifacts\2e\2ef9b7a61a5c73b414e83786d2dbe532
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\29\29802cdd797644aabd05aba8ee49ec38
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\29\29802cdd797644aabd05aba8ee49ec38
-    projectPath: Library\Artifacts\29\29802cdd797644aabd05aba8ee49ec38
+  - path: Library\Artifacts\30\3016dd0ccb5d95e78387b13e6ac4d659
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\30\3016dd0ccb5d95e78387b13e6ac4d659
+    projectPath: Library\Artifacts\30\3016dd0ccb5d95e78387b13e6ac4d659
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\2a\2a6a9b17878c979ded19e43acd736f09
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\2a\2a6a9b17878c979ded19e43acd736f09
-    projectPath: Library\Artifacts\2a\2a6a9b17878c979ded19e43acd736f09
+  - path: Library\Artifacts\30\306ea8f493ea1d5a61b424f7d94f4411
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\30\306ea8f493ea1d5a61b424f7d94f4411
+    projectPath: Library\Artifacts\30\306ea8f493ea1d5a61b424f7d94f4411
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\2b\2b291e570c8a2c78488b902c6158bb78
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\2b\2b291e570c8a2c78488b902c6158bb78
-    projectPath: Library\Artifacts\2b\2b291e570c8a2c78488b902c6158bb78
+  - path: Library\Artifacts\31\317dc2f4ea91cf293f7b68aa759de7fb
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\31\317dc2f4ea91cf293f7b68aa759de7fb
+    projectPath: Library\Artifacts\31\317dc2f4ea91cf293f7b68aa759de7fb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\2d\2d6b05460d2dfc25c5881d60385f33f7
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\2d\2d6b05460d2dfc25c5881d60385f33f7
-    projectPath: Library\Artifacts\2d\2d6b05460d2dfc25c5881d60385f33f7
+  - path: Library\Artifacts\33\334437939f504fea682fde9e3487fa21
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\33\334437939f504fea682fde9e3487fa21
+    projectPath: Library\Artifacts\33\334437939f504fea682fde9e3487fa21
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\2f\2f644684e8cbbfdee686d95413e3ed52
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\2f\2f644684e8cbbfdee686d95413e3ed52
-    projectPath: Library\Artifacts\2f\2f644684e8cbbfdee686d95413e3ed52
+  - path: Library\Artifacts\35\350f159a23eaa329de99f114b25a7774
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\35\350f159a23eaa329de99f114b25a7774
+    projectPath: Library\Artifacts\35\350f159a23eaa329de99f114b25a7774
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\30\306d2b2a7827716394ee46eb991f0835
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\30\306d2b2a7827716394ee46eb991f0835
-    projectPath: Library\Artifacts\30\306d2b2a7827716394ee46eb991f0835
+  - path: Library\Artifacts\35\352164aec876bb61f9dc1694f39eac13
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\35\352164aec876bb61f9dc1694f39eac13
+    projectPath: Library\Artifacts\35\352164aec876bb61f9dc1694f39eac13
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\31\31d017f08cde8ff1da2e9c2460647c6d
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\31\31d017f08cde8ff1da2e9c2460647c6d
-    projectPath: Library\Artifacts\31\31d017f08cde8ff1da2e9c2460647c6d
+  - path: Library\Artifacts\35\35b7a5ee438c60d2a3217a16da0dc1c2
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\35\35b7a5ee438c60d2a3217a16da0dc1c2
+    projectPath: Library\Artifacts\35\35b7a5ee438c60d2a3217a16da0dc1c2
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\34\3412a293fa194c8ee95f89abe5454a1a
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\34\3412a293fa194c8ee95f89abe5454a1a
-    projectPath: Library\Artifacts\34\3412a293fa194c8ee95f89abe5454a1a
+  - path: Library\Artifacts\35\35e8cf74d01f90dad0c58c4519ff6667
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\35\35e8cf74d01f90dad0c58c4519ff6667
+    projectPath: Library\Artifacts\35\35e8cf74d01f90dad0c58c4519ff6667
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\34\34476beee3e13097cb0073bbb5633c0f
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\34\34476beee3e13097cb0073bbb5633c0f
-    projectPath: Library\Artifacts\34\34476beee3e13097cb0073bbb5633c0f
+  - path: Library\Artifacts\36\361f425e1ef94e223f292de1d81ad540
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\36\361f425e1ef94e223f292de1d81ad540
+    projectPath: Library\Artifacts\36\361f425e1ef94e223f292de1d81ad540
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\36\368b66faaa37810bc3973564b3f19ec5
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\36\368b66faaa37810bc3973564b3f19ec5
-    projectPath: Library\Artifacts\36\368b66faaa37810bc3973564b3f19ec5
+  - path: Library\Artifacts\36\3627216fcc2623455a51a6f46f9c9388
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\36\3627216fcc2623455a51a6f46f9c9388
+    projectPath: Library\Artifacts\36\3627216fcc2623455a51a6f46f9c9388
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\37\379bc9742e5bd4964be8c2e3c6a05e31
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\37\379bc9742e5bd4964be8c2e3c6a05e31
-    projectPath: Library\Artifacts\37\379bc9742e5bd4964be8c2e3c6a05e31
+  - path: Library\Artifacts\37\375c12dc9728317a42dedaa2a4b4b7d1
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\37\375c12dc9728317a42dedaa2a4b4b7d1
+    projectPath: Library\Artifacts\37\375c12dc9728317a42dedaa2a4b4b7d1
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\38\38a861abbd5884d8706cf005d1c21083
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\38\38a861abbd5884d8706cf005d1c21083
-    projectPath: Library\Artifacts\38\38a861abbd5884d8706cf005d1c21083
+  - path: Library\Artifacts\3a\3a740d99c4bdc4b035ac2e90109298c2
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\3a\3a740d99c4bdc4b035ac2e90109298c2
+    projectPath: Library\Artifacts\3a\3a740d99c4bdc4b035ac2e90109298c2
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\39\3946de9d05c76e66b9c65ad8a01139d3
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\39\3946de9d05c76e66b9c65ad8a01139d3
-    projectPath: Library\Artifacts\39\3946de9d05c76e66b9c65ad8a01139d3
+  - path: Library\Artifacts\3a\3aee6e72a1c20d98925a59991838ce5e
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\3a\3aee6e72a1c20d98925a59991838ce5e
+    projectPath: Library\Artifacts\3a\3aee6e72a1c20d98925a59991838ce5e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\39\39f23f0a65105cca8e0d33e14e13fc87
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\39\39f23f0a65105cca8e0d33e14e13fc87
-    projectPath: Library\Artifacts\39\39f23f0a65105cca8e0d33e14e13fc87
+  - path: Library\Artifacts\3b\3b928b4ce9dca49a132a493ffd3fd76e
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\3b\3b928b4ce9dca49a132a493ffd3fd76e
+    projectPath: Library\Artifacts\3b\3b928b4ce9dca49a132a493ffd3fd76e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\3a\3aa0031c1f3e748841175279329dff9d
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\3a\3aa0031c1f3e748841175279329dff9d
-    projectPath: Library\Artifacts\3a\3aa0031c1f3e748841175279329dff9d
+  - path: Library\Artifacts\3b\3b943a2f73d748d57fa74df6c8407cf0
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\3b\3b943a2f73d748d57fa74df6c8407cf0
+    projectPath: Library\Artifacts\3b\3b943a2f73d748d57fa74df6c8407cf0
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\3a\3ac46a0cd553b03b031b7eb88932b64b
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\3a\3ac46a0cd553b03b031b7eb88932b64b
-    projectPath: Library\Artifacts\3a\3ac46a0cd553b03b031b7eb88932b64b
+  - path: Library\Artifacts\3c\3c6ae6c90d534aa0bf3ac7107d00049e
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\3c\3c6ae6c90d534aa0bf3ac7107d00049e
+    projectPath: Library\Artifacts\3c\3c6ae6c90d534aa0bf3ac7107d00049e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\3b\3bbb250d512c1c5c87b98754ff579324
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\3b\3bbb250d512c1c5c87b98754ff579324
-    projectPath: Library\Artifacts\3b\3bbb250d512c1c5c87b98754ff579324
+  - path: Library\Artifacts\43\434c0d4b814810c5c8700be55a45da3a
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\43\434c0d4b814810c5c8700be55a45da3a
+    projectPath: Library\Artifacts\43\434c0d4b814810c5c8700be55a45da3a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\3b\3bbddc4aef77c6db315d75a6adbe81fb
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\3b\3bbddc4aef77c6db315d75a6adbe81fb
-    projectPath: Library\Artifacts\3b\3bbddc4aef77c6db315d75a6adbe81fb
+  - path: Library\Artifacts\45\4597348ca63ee85e871ddcf16e940999
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\45\4597348ca63ee85e871ddcf16e940999
+    projectPath: Library\Artifacts\45\4597348ca63ee85e871ddcf16e940999
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\3b\3bc2ad2c0383d35dde23c4fd3ee76be6
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\3b\3bc2ad2c0383d35dde23c4fd3ee76be6
-    projectPath: Library\Artifacts\3b\3bc2ad2c0383d35dde23c4fd3ee76be6
+  - path: Library\Artifacts\45\45e037ec9f7f29cc6e6354e630ebb32e
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\45\45e037ec9f7f29cc6e6354e630ebb32e
+    projectPath: Library\Artifacts\45\45e037ec9f7f29cc6e6354e630ebb32e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\3d\3daa21221829df0b33817bf373eae217
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\3d\3daa21221829df0b33817bf373eae217
-    projectPath: Library\Artifacts\3d\3daa21221829df0b33817bf373eae217
+  - path: Library\Artifacts\46\460109862124215328452192e51c02a1
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\46\460109862124215328452192e51c02a1
+    projectPath: Library\Artifacts\46\460109862124215328452192e51c02a1
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\3d\3dbcd5b436c09691bba6b04e8f387bb4
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\3d\3dbcd5b436c09691bba6b04e8f387bb4
-    projectPath: Library\Artifacts\3d\3dbcd5b436c09691bba6b04e8f387bb4
+  - path: Library\Artifacts\46\46638129c4ab8e086eb7e3ea3d5b4fbb
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\46\46638129c4ab8e086eb7e3ea3d5b4fbb
+    projectPath: Library\Artifacts\46\46638129c4ab8e086eb7e3ea3d5b4fbb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\3e\3e1092bde21ff40dfc28b983b42da59e
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\3e\3e1092bde21ff40dfc28b983b42da59e
-    projectPath: Library\Artifacts\3e\3e1092bde21ff40dfc28b983b42da59e
+  - path: Library\Artifacts\46\4686c33d7c83aaf322e2172b5846a977
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\46\4686c33d7c83aaf322e2172b5846a977
+    projectPath: Library\Artifacts\46\4686c33d7c83aaf322e2172b5846a977
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\3e\3e351f353559558dd8189c638a4eb1c2
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\3e\3e351f353559558dd8189c638a4eb1c2
-    projectPath: Library\Artifacts\3e\3e351f353559558dd8189c638a4eb1c2
+  - path: Library\Artifacts\46\46a71e9902f03be84a19ad017bf40631
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\46\46a71e9902f03be84a19ad017bf40631
+    projectPath: Library\Artifacts\46\46a71e9902f03be84a19ad017bf40631
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\3e\3e49ba5b0649368aeb26ba7d1f55216a
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\3e\3e49ba5b0649368aeb26ba7d1f55216a
-    projectPath: Library\Artifacts\3e\3e49ba5b0649368aeb26ba7d1f55216a
+  - path: Library\Artifacts\4b\4b974d3bcb97a418424f57ca960be65e
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\4b\4b974d3bcb97a418424f57ca960be65e
+    projectPath: Library\Artifacts\4b\4b974d3bcb97a418424f57ca960be65e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\3e\3e789f72636863be4cc51fe47d5a1b30
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\3e\3e789f72636863be4cc51fe47d5a1b30
-    projectPath: Library\Artifacts\3e\3e789f72636863be4cc51fe47d5a1b30
+  - path: Library\Artifacts\4e\4e72707aea6f2f86fbdeb15f463caca7
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\4e\4e72707aea6f2f86fbdeb15f463caca7
+    projectPath: Library\Artifacts\4e\4e72707aea6f2f86fbdeb15f463caca7
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\3e\3ed8418a4d658d2689d6c9171ecf2b06
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\3e\3ed8418a4d658d2689d6c9171ecf2b06
-    projectPath: Library\Artifacts\3e\3ed8418a4d658d2689d6c9171ecf2b06
+  - path: Library\Artifacts\52\524e07389f71713f45b1c41561579f94
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\52\524e07389f71713f45b1c41561579f94
+    projectPath: Library\Artifacts\52\524e07389f71713f45b1c41561579f94
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\3f\3f7ae34e17efc631059291573966b595
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\3f\3f7ae34e17efc631059291573966b595
-    projectPath: Library\Artifacts\3f\3f7ae34e17efc631059291573966b595
+  - path: Library\Artifacts\53\53c27121b771baeead6a98112350b8dc
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\53\53c27121b771baeead6a98112350b8dc
+    projectPath: Library\Artifacts\53\53c27121b771baeead6a98112350b8dc
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\3f\3f884aee99aa5d9f56430bbec8ddd930
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\3f\3f884aee99aa5d9f56430bbec8ddd930
-    projectPath: Library\Artifacts\3f\3f884aee99aa5d9f56430bbec8ddd930
+  - path: Library\Artifacts\59\59df94880987d59de2397a4f3ccd8f38
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\59\59df94880987d59de2397a4f3ccd8f38
+    projectPath: Library\Artifacts\59\59df94880987d59de2397a4f3ccd8f38
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\3f\3fdc359395106eee68c96450f9e0b5d2
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\3f\3fdc359395106eee68c96450f9e0b5d2
-    projectPath: Library\Artifacts\3f\3fdc359395106eee68c96450f9e0b5d2
+  - path: Library\Artifacts\5a\5a295dd46a544ee4ca0174f7ad2efa75
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\5a\5a295dd46a544ee4ca0174f7ad2efa75
+    projectPath: Library\Artifacts\5a\5a295dd46a544ee4ca0174f7ad2efa75
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\42\4220c0cc2a2d4abcdbf6cf294669c577
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\42\4220c0cc2a2d4abcdbf6cf294669c577
-    projectPath: Library\Artifacts\42\4220c0cc2a2d4abcdbf6cf294669c577
+  - path: Library\Artifacts\5c\5cd88f4ee6dec6cdd1c9f17af989a895
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\5c\5cd88f4ee6dec6cdd1c9f17af989a895
+    projectPath: Library\Artifacts\5c\5cd88f4ee6dec6cdd1c9f17af989a895
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\43\4341be9ca94df94bee0f32b81a93be68
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\43\4341be9ca94df94bee0f32b81a93be68
-    projectPath: Library\Artifacts\43\4341be9ca94df94bee0f32b81a93be68
+  - path: Library\Artifacts\60\60eae9e9839062e060ca98007555a51f
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\60\60eae9e9839062e060ca98007555a51f
+    projectPath: Library\Artifacts\60\60eae9e9839062e060ca98007555a51f
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\43\43ace05433575067ad72e966b88ae413
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\43\43ace05433575067ad72e966b88ae413
-    projectPath: Library\Artifacts\43\43ace05433575067ad72e966b88ae413
+  - path: Library\Artifacts\62\6220078a9776cdb279f1a3b8460b9bc5
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\62\6220078a9776cdb279f1a3b8460b9bc5
+    projectPath: Library\Artifacts\62\6220078a9776cdb279f1a3b8460b9bc5
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\44\44fbcb978c3de1549a6b2df8e39d3ece
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\44\44fbcb978c3de1549a6b2df8e39d3ece
-    projectPath: Library\Artifacts\44\44fbcb978c3de1549a6b2df8e39d3ece
+  - path: Library\Artifacts\64\649d9e5920514a9ef6cde5513792f16e
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\64\649d9e5920514a9ef6cde5513792f16e
+    projectPath: Library\Artifacts\64\649d9e5920514a9ef6cde5513792f16e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\45\450c2e0ba32b97d868dce14d26e81577
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\45\450c2e0ba32b97d868dce14d26e81577
-    projectPath: Library\Artifacts\45\450c2e0ba32b97d868dce14d26e81577
+  - path: Library\Artifacts\65\6510e3366f9cf772261531fe4363e9d2
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\65\6510e3366f9cf772261531fe4363e9d2
+    projectPath: Library\Artifacts\65\6510e3366f9cf772261531fe4363e9d2
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\45\4529ee4fba44128b01c314ce69944385
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\45\4529ee4fba44128b01c314ce69944385
-    projectPath: Library\Artifacts\45\4529ee4fba44128b01c314ce69944385
+  - path: Library\Artifacts\66\6674e7a6f5d230bd5651f343a0bded01
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\66\6674e7a6f5d230bd5651f343a0bded01
+    projectPath: Library\Artifacts\66\6674e7a6f5d230bd5651f343a0bded01
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\46\468761dbf999a7dcf1daecb3de5a7878
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\46\468761dbf999a7dcf1daecb3de5a7878
-    projectPath: Library\Artifacts\46\468761dbf999a7dcf1daecb3de5a7878
+  - path: Library\Artifacts\6b\6bde6cbf48d9c379008cbfeaa045ea19
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\6b\6bde6cbf48d9c379008cbfeaa045ea19
+    projectPath: Library\Artifacts\6b\6bde6cbf48d9c379008cbfeaa045ea19
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\46\46cb93dabea2275790fc4f9f0392cfe7
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\46\46cb93dabea2275790fc4f9f0392cfe7
-    projectPath: Library\Artifacts\46\46cb93dabea2275790fc4f9f0392cfe7
+  - path: Library\Artifacts\6c\6cb870aad0b11d229e9bf74b1e4f0c2d
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\6c\6cb870aad0b11d229e9bf74b1e4f0c2d
+    projectPath: Library\Artifacts\6c\6cb870aad0b11d229e9bf74b1e4f0c2d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\47\4700aa4b26cba5f821ccb4f2aaef3139
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\47\4700aa4b26cba5f821ccb4f2aaef3139
-    projectPath: Library\Artifacts\47\4700aa4b26cba5f821ccb4f2aaef3139
+  - path: Library\Artifacts\70\70f0de910a11202fd4c3a6f532231a95
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\70\70f0de910a11202fd4c3a6f532231a95
+    projectPath: Library\Artifacts\70\70f0de910a11202fd4c3a6f532231a95
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\4b\4b9200608c7ebb8da9fed307ddd4a107
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\4b\4b9200608c7ebb8da9fed307ddd4a107
-    projectPath: Library\Artifacts\4b\4b9200608c7ebb8da9fed307ddd4a107
+  - path: Library\Artifacts\72\727c2409ca82d6f5cb5470c4dbf43a78
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\72\727c2409ca82d6f5cb5470c4dbf43a78
+    projectPath: Library\Artifacts\72\727c2409ca82d6f5cb5470c4dbf43a78
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\4c\4c5ae7060069a784556985a35cbfbe84
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\4c\4c5ae7060069a784556985a35cbfbe84
-    projectPath: Library\Artifacts\4c\4c5ae7060069a784556985a35cbfbe84
+  - path: Library\Artifacts\73\73ae44ae22f846837e88a1cf298263e6
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\73\73ae44ae22f846837e88a1cf298263e6
+    projectPath: Library\Artifacts\73\73ae44ae22f846837e88a1cf298263e6
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\4c\4ca2e1fc2190b8ba094c987ebfed6b17
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\4c\4ca2e1fc2190b8ba094c987ebfed6b17
-    projectPath: Library\Artifacts\4c\4ca2e1fc2190b8ba094c987ebfed6b17
+  - path: Library\Artifacts\74\74594ef9c1871d104688b2d6a5e98491
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\74\74594ef9c1871d104688b2d6a5e98491
+    projectPath: Library\Artifacts\74\74594ef9c1871d104688b2d6a5e98491
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\4d\4d832b35aaec8a6de3f97108328a2cf2
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\4d\4d832b35aaec8a6de3f97108328a2cf2
-    projectPath: Library\Artifacts\4d\4d832b35aaec8a6de3f97108328a2cf2
+  - path: Library\Artifacts\74\74ffd7dcc2b41b022979a3d920e8dbbd
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\74\74ffd7dcc2b41b022979a3d920e8dbbd
+    projectPath: Library\Artifacts\74\74ffd7dcc2b41b022979a3d920e8dbbd
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\50\503f1ecc8df93696808ebeb083fbbc2e
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\50\503f1ecc8df93696808ebeb083fbbc2e
-    projectPath: Library\Artifacts\50\503f1ecc8df93696808ebeb083fbbc2e
+  - path: Library\Artifacts\75\751f983b8d5de498e90c3dd4cca3c75a
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\75\751f983b8d5de498e90c3dd4cca3c75a
+    projectPath: Library\Artifacts\75\751f983b8d5de498e90c3dd4cca3c75a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\55\55b364666934730f38e5580848c4df61
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\55\55b364666934730f38e5580848c4df61
-    projectPath: Library\Artifacts\55\55b364666934730f38e5580848c4df61
+  - path: Library\Artifacts\75\75256ec1ee7f4c7dc304b70cbfe374f8
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\75\75256ec1ee7f4c7dc304b70cbfe374f8
+    projectPath: Library\Artifacts\75\75256ec1ee7f4c7dc304b70cbfe374f8
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\56\56cf7e6126788168c84a6f06dcb6cea2
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\56\56cf7e6126788168c84a6f06dcb6cea2
-    projectPath: Library\Artifacts\56\56cf7e6126788168c84a6f06dcb6cea2
+  - path: Library\Artifacts\77\776c6c489a8c3d4f761a315ab7137b61
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\77\776c6c489a8c3d4f761a315ab7137b61
+    projectPath: Library\Artifacts\77\776c6c489a8c3d4f761a315ab7137b61
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\57\57249d8c08644f960057cd477d622515
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\57\57249d8c08644f960057cd477d622515
-    projectPath: Library\Artifacts\57\57249d8c08644f960057cd477d622515
+  - path: Library\Artifacts\77\7797d4b1c5dec132177dfece9d1027ab
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\77\7797d4b1c5dec132177dfece9d1027ab
+    projectPath: Library\Artifacts\77\7797d4b1c5dec132177dfece9d1027ab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\58\58bc2cec121a4337c626ef01db36a971
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\58\58bc2cec121a4337c626ef01db36a971
-    projectPath: Library\Artifacts\58\58bc2cec121a4337c626ef01db36a971
+  - path: Library\Artifacts\78\789480cef3084497c808b3de93eafb8c
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\78\789480cef3084497c808b3de93eafb8c
+    projectPath: Library\Artifacts\78\789480cef3084497c808b3de93eafb8c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\59\59e2b1401f3a3af78cde7f758cfcef8a
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\59\59e2b1401f3a3af78cde7f758cfcef8a
-    projectPath: Library\Artifacts\59\59e2b1401f3a3af78cde7f758cfcef8a
+  - path: Library\Artifacts\79\79f39ec60df66c449f03772bad0d246c
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\79\79f39ec60df66c449f03772bad0d246c
+    projectPath: Library\Artifacts\79\79f39ec60df66c449f03772bad0d246c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\5a\5a77d114963ba40ec686d67c2a50f356
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\5a\5a77d114963ba40ec686d67c2a50f356
-    projectPath: Library\Artifacts\5a\5a77d114963ba40ec686d67c2a50f356
+  - path: Library\Artifacts\7a\7a562ab7466a7ed3c0906a4a5be31256
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\7a\7a562ab7466a7ed3c0906a4a5be31256
+    projectPath: Library\Artifacts\7a\7a562ab7466a7ed3c0906a4a5be31256
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\5b\5b85eaa48ebfbe629d45dc8534458b93
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\5b\5b85eaa48ebfbe629d45dc8534458b93
-    projectPath: Library\Artifacts\5b\5b85eaa48ebfbe629d45dc8534458b93
+  - path: Library\Artifacts\7b\7bd28105358315481751ed17c4c83b93
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\7b\7bd28105358315481751ed17c4c83b93
+    projectPath: Library\Artifacts\7b\7bd28105358315481751ed17c4c83b93
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\5b\5bcce9987b73a94d55fe208a01d80011
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\5b\5bcce9987b73a94d55fe208a01d80011
-    projectPath: Library\Artifacts\5b\5bcce9987b73a94d55fe208a01d80011
+  - path: Library\Artifacts\7e\7ead0c75fdd4ca8666822ae28c4e1405
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\7e\7ead0c75fdd4ca8666822ae28c4e1405
+    projectPath: Library\Artifacts\7e\7ead0c75fdd4ca8666822ae28c4e1405
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\5d\5dae55d9555f0a9b06f9e7d797bd0cf8
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\5d\5dae55d9555f0a9b06f9e7d797bd0cf8
-    projectPath: Library\Artifacts\5d\5dae55d9555f0a9b06f9e7d797bd0cf8
+  - path: Library\Artifacts\83\83e04d87ad92a82090bb0788a7a4f14c
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\83\83e04d87ad92a82090bb0788a7a4f14c
+    projectPath: Library\Artifacts\83\83e04d87ad92a82090bb0788a7a4f14c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\5d\5dbb732f2c786469b88eefe0556762d0
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\5d\5dbb732f2c786469b88eefe0556762d0
-    projectPath: Library\Artifacts\5d\5dbb732f2c786469b88eefe0556762d0
+  - path: Library\Artifacts\88\888bbc94de38e4246d60d31e83a2f357
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\88\888bbc94de38e4246d60d31e83a2f357
+    projectPath: Library\Artifacts\88\888bbc94de38e4246d60d31e83a2f357
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\5e\5e5c542218239ea7a2da586596fa085c
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\5e\5e5c542218239ea7a2da586596fa085c
-    projectPath: Library\Artifacts\5e\5e5c542218239ea7a2da586596fa085c
+  - path: Library\Artifacts\88\88c4277aa5b12b27e6bb31a0d3b34512
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\88\88c4277aa5b12b27e6bb31a0d3b34512
+    projectPath: Library\Artifacts\88\88c4277aa5b12b27e6bb31a0d3b34512
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\5f\5f2afeecfa930e02ef7f266e827c7ab8
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\5f\5f2afeecfa930e02ef7f266e827c7ab8
-    projectPath: Library\Artifacts\5f\5f2afeecfa930e02ef7f266e827c7ab8
+  - path: Library\Artifacts\8c\8c66a104de2763fa01e5e76051e1d3f6
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\8c\8c66a104de2763fa01e5e76051e1d3f6
+    projectPath: Library\Artifacts\8c\8c66a104de2763fa01e5e76051e1d3f6
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\62\625c3a0ad6815b89b86e1fa11f9b5e10
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\62\625c3a0ad6815b89b86e1fa11f9b5e10
-    projectPath: Library\Artifacts\62\625c3a0ad6815b89b86e1fa11f9b5e10
+  - path: Library\Artifacts\8d\8dbf5ece7e3a405396fd8d6c03f28400
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\8d\8dbf5ece7e3a405396fd8d6c03f28400
+    projectPath: Library\Artifacts\8d\8dbf5ece7e3a405396fd8d6c03f28400
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\62\62a494365808ea4c0308c51930b5a4d1
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\62\62a494365808ea4c0308c51930b5a4d1
-    projectPath: Library\Artifacts\62\62a494365808ea4c0308c51930b5a4d1
+  - path: Library\Artifacts\91\91ec3c27056240059ccfa2034f3592f0
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\91\91ec3c27056240059ccfa2034f3592f0
+    projectPath: Library\Artifacts\91\91ec3c27056240059ccfa2034f3592f0
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\65\65ddaffa3e483c0dd6d01e049cc44927
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\65\65ddaffa3e483c0dd6d01e049cc44927
-    projectPath: Library\Artifacts\65\65ddaffa3e483c0dd6d01e049cc44927
+  - path: Library\Artifacts\92\9210b0ca15cdeda81512b8d30bfff45a
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\92\9210b0ca15cdeda81512b8d30bfff45a
+    projectPath: Library\Artifacts\92\9210b0ca15cdeda81512b8d30bfff45a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\66\66d7c7f952094295d20d277ea829cb31
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\66\66d7c7f952094295d20d277ea829cb31
-    projectPath: Library\Artifacts\66\66d7c7f952094295d20d277ea829cb31
+  - path: Library\Artifacts\99\99665d0d3504e425e2eef6293d10267e
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\99\99665d0d3504e425e2eef6293d10267e
+    projectPath: Library\Artifacts\99\99665d0d3504e425e2eef6293d10267e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\68\68d959a1739082ae9305465d0ef55123
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\68\68d959a1739082ae9305465d0ef55123
-    projectPath: Library\Artifacts\68\68d959a1739082ae9305465d0ef55123
+  - path: Library\Artifacts\9a\9ab98c9a5684eb65eb459b1dfe34895a
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\9a\9ab98c9a5684eb65eb459b1dfe34895a
+    projectPath: Library\Artifacts\9a\9ab98c9a5684eb65eb459b1dfe34895a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\69\69731633412745961bea2a3bb2a97e2d
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\69\69731633412745961bea2a3bb2a97e2d
-    projectPath: Library\Artifacts\69\69731633412745961bea2a3bb2a97e2d
+  - path: Library\Artifacts\9b\9b879df913137aac269c6bc6d696efe1
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\9b\9b879df913137aac269c6bc6d696efe1
+    projectPath: Library\Artifacts\9b\9b879df913137aac269c6bc6d696efe1
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\6a\6a53bff24564367ad69ea19e3e219ecb
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\6a\6a53bff24564367ad69ea19e3e219ecb
-    projectPath: Library\Artifacts\6a\6a53bff24564367ad69ea19e3e219ecb
+  - path: Library\Artifacts\9c\9cb898b468ca1f907e7dc45bc4811086
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\9c\9cb898b468ca1f907e7dc45bc4811086
+    projectPath: Library\Artifacts\9c\9cb898b468ca1f907e7dc45bc4811086
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\6b\6b5f7f8286fbd283855e547c654591b5
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\6b\6b5f7f8286fbd283855e547c654591b5
-    projectPath: Library\Artifacts\6b\6b5f7f8286fbd283855e547c654591b5
+  - path: Library\Artifacts\9d\9d19835d8037ee8bff12ff98de7c2807
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\9d\9d19835d8037ee8bff12ff98de7c2807
+    projectPath: Library\Artifacts\9d\9d19835d8037ee8bff12ff98de7c2807
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\6b\6b5fee52184cd31ddc01884ee46802da
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\6b\6b5fee52184cd31ddc01884ee46802da
-    projectPath: Library\Artifacts\6b\6b5fee52184cd31ddc01884ee46802da
+  - path: Library\Artifacts\9d\9d91f27df289add4d2fd0978d9145e5b
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\9d\9d91f27df289add4d2fd0978d9145e5b
+    projectPath: Library\Artifacts\9d\9d91f27df289add4d2fd0978d9145e5b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\6e\6e7d0eb3cbd58b61d24152a752744840
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\6e\6e7d0eb3cbd58b61d24152a752744840
-    projectPath: Library\Artifacts\6e\6e7d0eb3cbd58b61d24152a752744840
+  - path: Library\Artifacts\a1\a101a49821fd7b991968b2fc69937e48
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\a1\a101a49821fd7b991968b2fc69937e48
+    projectPath: Library\Artifacts\a1\a101a49821fd7b991968b2fc69937e48
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\71\7106494a70778e92fc8847b4cfdf6acb
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\71\7106494a70778e92fc8847b4cfdf6acb
-    projectPath: Library\Artifacts\71\7106494a70778e92fc8847b4cfdf6acb
+  - path: Library\Artifacts\aa\aa2cac21bcb1ba08c7083d06350461ca
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\aa\aa2cac21bcb1ba08c7083d06350461ca
+    projectPath: Library\Artifacts\aa\aa2cac21bcb1ba08c7083d06350461ca
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\71\71e1eb35bd42226d478875d051aef550
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\71\71e1eb35bd42226d478875d051aef550
-    projectPath: Library\Artifacts\71\71e1eb35bd42226d478875d051aef550
+  - path: Library\Artifacts\aa\aa3c9d87ef0dcdc439520b9c82ba14dd
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\aa\aa3c9d87ef0dcdc439520b9c82ba14dd
+    projectPath: Library\Artifacts\aa\aa3c9d87ef0dcdc439520b9c82ba14dd
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\72\72a0ce0310406fa05d0df6a32c608f3e
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\72\72a0ce0310406fa05d0df6a32c608f3e
-    projectPath: Library\Artifacts\72\72a0ce0310406fa05d0df6a32c608f3e
+  - path: Library\Artifacts\ac\ac26dcc2189bd55b100a1f82836bcd8c
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ac\ac26dcc2189bd55b100a1f82836bcd8c
+    projectPath: Library\Artifacts\ac\ac26dcc2189bd55b100a1f82836bcd8c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\73\73a3e3b4d77ec3d005f9ed9c1bdbbb00
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\73\73a3e3b4d77ec3d005f9ed9c1bdbbb00
-    projectPath: Library\Artifacts\73\73a3e3b4d77ec3d005f9ed9c1bdbbb00
+  - path: Library\Artifacts\ae\ae8654d5f53412dff95c4f57f69907ee
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ae\ae8654d5f53412dff95c4f57f69907ee
+    projectPath: Library\Artifacts\ae\ae8654d5f53412dff95c4f57f69907ee
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\74\74df5c314040310fba42f8663f137af8
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\74\74df5c314040310fba42f8663f137af8
-    projectPath: Library\Artifacts\74\74df5c314040310fba42f8663f137af8
+  - path: Library\Artifacts\b1\b1240c41a7bac261a0752c25bfc0eb41
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\b1\b1240c41a7bac261a0752c25bfc0eb41
+    projectPath: Library\Artifacts\b1\b1240c41a7bac261a0752c25bfc0eb41
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\74\74e66f96de483d76b968543e408a9ec0
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\74\74e66f96de483d76b968543e408a9ec0
-    projectPath: Library\Artifacts\74\74e66f96de483d76b968543e408a9ec0
+  - path: Library\Artifacts\b1\b1bf9a3fbf87aacb953e6861715d22f3
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\b1\b1bf9a3fbf87aacb953e6861715d22f3
+    projectPath: Library\Artifacts\b1\b1bf9a3fbf87aacb953e6861715d22f3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\75\7543276efb3052c73f5cd8c2c06b75c6
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\75\7543276efb3052c73f5cd8c2c06b75c6
-    projectPath: Library\Artifacts\75\7543276efb3052c73f5cd8c2c06b75c6
+  - path: Library\Artifacts\b1\b1d8b3380052753c8a112ba28b63b9c8
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\b1\b1d8b3380052753c8a112ba28b63b9c8
+    projectPath: Library\Artifacts\b1\b1d8b3380052753c8a112ba28b63b9c8
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\76\76df3c757db33e029c043d1bd93f8dbb
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\76\76df3c757db33e029c043d1bd93f8dbb
-    projectPath: Library\Artifacts\76\76df3c757db33e029c043d1bd93f8dbb
+  - path: Library\Artifacts\b2\b282db91785a40cb4bccef9811556fcf
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\b2\b282db91785a40cb4bccef9811556fcf
+    projectPath: Library\Artifacts\b2\b282db91785a40cb4bccef9811556fcf
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\76\76ea8ab0819c64449018cb53f0c1473d
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\76\76ea8ab0819c64449018cb53f0c1473d
-    projectPath: Library\Artifacts\76\76ea8ab0819c64449018cb53f0c1473d
+  - path: Library\Artifacts\b6\b64c6e07a8816b111aaba5f5b59e0d37
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\b6\b64c6e07a8816b111aaba5f5b59e0d37
+    projectPath: Library\Artifacts\b6\b64c6e07a8816b111aaba5f5b59e0d37
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\77\772431bb2325289d3d1174c16b2be5c5
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\77\772431bb2325289d3d1174c16b2be5c5
-    projectPath: Library\Artifacts\77\772431bb2325289d3d1174c16b2be5c5
+  - path: Library\Artifacts\b9\b9448778644cd99fd661270040220c5b
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\b9\b9448778644cd99fd661270040220c5b
+    projectPath: Library\Artifacts\b9\b9448778644cd99fd661270040220c5b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\79\79ba167b1f288f68ab8aecffd71201d2
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\79\79ba167b1f288f68ab8aecffd71201d2
-    projectPath: Library\Artifacts\79\79ba167b1f288f68ab8aecffd71201d2
+  - path: Library\Artifacts\bb\bb14de36aafc110a5cd65928b311339e
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\bb\bb14de36aafc110a5cd65928b311339e
+    projectPath: Library\Artifacts\bb\bb14de36aafc110a5cd65928b311339e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\7b\7bbf183836ca7dcb47383ffd26e4c3ec
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\7b\7bbf183836ca7dcb47383ffd26e4c3ec
-    projectPath: Library\Artifacts\7b\7bbf183836ca7dcb47383ffd26e4c3ec
+  - path: Library\Artifacts\bc\bc8a655edc374a5d7a36b4ca48044638
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\bc\bc8a655edc374a5d7a36b4ca48044638
+    projectPath: Library\Artifacts\bc\bc8a655edc374a5d7a36b4ca48044638
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\7d\7d5a46aecaee2c5aad575021f27992bd
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\7d\7d5a46aecaee2c5aad575021f27992bd
-    projectPath: Library\Artifacts\7d\7d5a46aecaee2c5aad575021f27992bd
+  - path: Library\Artifacts\be\be01fd6cf9bbee82391115235e85152b
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\be\be01fd6cf9bbee82391115235e85152b
+    projectPath: Library\Artifacts\be\be01fd6cf9bbee82391115235e85152b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\7d\7d85bc01a8e6a30a0dfde02ac956deeb
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\7d\7d85bc01a8e6a30a0dfde02ac956deeb
-    projectPath: Library\Artifacts\7d\7d85bc01a8e6a30a0dfde02ac956deeb
+  - path: Library\Artifacts\be\beb00cedfb62ec1addba7e9de17021c1
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\be\beb00cedfb62ec1addba7e9de17021c1
+    projectPath: Library\Artifacts\be\beb00cedfb62ec1addba7e9de17021c1
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\7e\7e23eaa3320bec31a9d721020ef2b065
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\7e\7e23eaa3320bec31a9d721020ef2b065
-    projectPath: Library\Artifacts\7e\7e23eaa3320bec31a9d721020ef2b065
+  - path: Library\Artifacts\c0\c0276e66f6b517da5e7e68ba04f0321f
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\c0\c0276e66f6b517da5e7e68ba04f0321f
+    projectPath: Library\Artifacts\c0\c0276e66f6b517da5e7e68ba04f0321f
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\7e\7e58269080fc4fb5a8ddd7470d0dc1cb
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\7e\7e58269080fc4fb5a8ddd7470d0dc1cb
-    projectPath: Library\Artifacts\7e\7e58269080fc4fb5a8ddd7470d0dc1cb
+  - path: Library\Artifacts\c0\c06968a161b0436bf81b56e9e42798ad
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\c0\c06968a161b0436bf81b56e9e42798ad
+    projectPath: Library\Artifacts\c0\c06968a161b0436bf81b56e9e42798ad
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\7f\7f6cf9e8be7bd932ddc34fa46904e0e1
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\7f\7f6cf9e8be7bd932ddc34fa46904e0e1
-    projectPath: Library\Artifacts\7f\7f6cf9e8be7bd932ddc34fa46904e0e1
+  - path: Library\Artifacts\c0\c06c129dfea79d0bebe92b334da69050
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\c0\c06c129dfea79d0bebe92b334da69050
+    projectPath: Library\Artifacts\c0\c06c129dfea79d0bebe92b334da69050
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\81\81d70609c1eaf950bf1c9a34335cad7e
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\81\81d70609c1eaf950bf1c9a34335cad7e
-    projectPath: Library\Artifacts\81\81d70609c1eaf950bf1c9a34335cad7e
+  - path: Library\Artifacts\c1\c131e0ea784cea0ef1ee8ea66e29fc2b
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\c1\c131e0ea784cea0ef1ee8ea66e29fc2b
+    projectPath: Library\Artifacts\c1\c131e0ea784cea0ef1ee8ea66e29fc2b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\84\84020618493e60e035e626dac84e6b5a
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\84\84020618493e60e035e626dac84e6b5a
-    projectPath: Library\Artifacts\84\84020618493e60e035e626dac84e6b5a
+  - path: Library\Artifacts\c4\c4ef49ed3b4ff5f5584541570b92be4d
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\c4\c4ef49ed3b4ff5f5584541570b92be4d
+    projectPath: Library\Artifacts\c4\c4ef49ed3b4ff5f5584541570b92be4d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\84\8412067ccaea96fd9dde4337b9010913
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\84\8412067ccaea96fd9dde4337b9010913
-    projectPath: Library\Artifacts\84\8412067ccaea96fd9dde4337b9010913
+  - path: Library\Artifacts\c9\c9de94e5258cb770d6ee9ab6d0659d07
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\c9\c9de94e5258cb770d6ee9ab6d0659d07
+    projectPath: Library\Artifacts\c9\c9de94e5258cb770d6ee9ab6d0659d07
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\84\84fdca9f5a60b8c68f51c6cfca6aa6eb
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\84\84fdca9f5a60b8c68f51c6cfca6aa6eb
-    projectPath: Library\Artifacts\84\84fdca9f5a60b8c68f51c6cfca6aa6eb
+  - path: Library\Artifacts\ca\ca5509ce070ec733dce446d7020a9f04
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ca\ca5509ce070ec733dce446d7020a9f04
+    projectPath: Library\Artifacts\ca\ca5509ce070ec733dce446d7020a9f04
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\86\8608fb1c46ac4a9f02a01197b2f3df6b
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\86\8608fb1c46ac4a9f02a01197b2f3df6b
-    projectPath: Library\Artifacts\86\8608fb1c46ac4a9f02a01197b2f3df6b
+  - path: Library\Artifacts\ca\ca6713cb9042318cb8cc37fa1bbb4f4b
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ca\ca6713cb9042318cb8cc37fa1bbb4f4b
+    projectPath: Library\Artifacts\ca\ca6713cb9042318cb8cc37fa1bbb4f4b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\86\86f227d4b6813c340409189c642344f9
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\86\86f227d4b6813c340409189c642344f9
-    projectPath: Library\Artifacts\86\86f227d4b6813c340409189c642344f9
+  - path: Library\Artifacts\cc\cccc2802f250801b39d1f1e1642e9f9d
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\cc\cccc2802f250801b39d1f1e1642e9f9d
+    projectPath: Library\Artifacts\cc\cccc2802f250801b39d1f1e1642e9f9d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\89\892085ebc9287f76b6a93e1112360e13
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\89\892085ebc9287f76b6a93e1112360e13
-    projectPath: Library\Artifacts\89\892085ebc9287f76b6a93e1112360e13
+  - path: Library\Artifacts\ce\cefd743bc0470fe0636200832035071d
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ce\cefd743bc0470fe0636200832035071d
+    projectPath: Library\Artifacts\ce\cefd743bc0470fe0636200832035071d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\8b\8bdc7a9b6d3379d72e2f4e0ca4fa66f8
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\8b\8bdc7a9b6d3379d72e2f4e0ca4fa66f8
-    projectPath: Library\Artifacts\8b\8bdc7a9b6d3379d72e2f4e0ca4fa66f8
+  - path: Library\Artifacts\cf\cfc1220509e187a04f70cffae1c8f5f2
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\cf\cfc1220509e187a04f70cffae1c8f5f2
+    projectPath: Library\Artifacts\cf\cfc1220509e187a04f70cffae1c8f5f2
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\8b\8be937567f3b7955ddbe239a1cd51890
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\8b\8be937567f3b7955ddbe239a1cd51890
-    projectPath: Library\Artifacts\8b\8be937567f3b7955ddbe239a1cd51890
+  - path: Library\Artifacts\d0\d00d978f503a29e889737019d1bfabb1
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\d0\d00d978f503a29e889737019d1bfabb1
+    projectPath: Library\Artifacts\d0\d00d978f503a29e889737019d1bfabb1
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\8c\8ca9822ec80b6da9c98c5f02778201a9
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\8c\8ca9822ec80b6da9c98c5f02778201a9
-    projectPath: Library\Artifacts\8c\8ca9822ec80b6da9c98c5f02778201a9
+  - path: Library\Artifacts\d0\d07dad487cc7fbb259faac94b852515e
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\d0\d07dad487cc7fbb259faac94b852515e
+    projectPath: Library\Artifacts\d0\d07dad487cc7fbb259faac94b852515e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\8e\8e00bd1736f7c622d0ca597fc6bf7d1e
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\8e\8e00bd1736f7c622d0ca597fc6bf7d1e
-    projectPath: Library\Artifacts\8e\8e00bd1736f7c622d0ca597fc6bf7d1e
+  - path: Library\Artifacts\d0\d0d5d93ab675fb544796b53753b1e23b
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\d0\d0d5d93ab675fb544796b53753b1e23b
+    projectPath: Library\Artifacts\d0\d0d5d93ab675fb544796b53753b1e23b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\8e\8e76d05982700e50e1324f5246a2edd8
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\8e\8e76d05982700e50e1324f5246a2edd8
-    projectPath: Library\Artifacts\8e\8e76d05982700e50e1324f5246a2edd8
+  - path: Library\Artifacts\d1\d1eb00f2761cc2ba2a0813c7b0889a52
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\d1\d1eb00f2761cc2ba2a0813c7b0889a52
+    projectPath: Library\Artifacts\d1\d1eb00f2761cc2ba2a0813c7b0889a52
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\8e\8ef690a32145e46bf38ff1128cbc3491
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\8e\8ef690a32145e46bf38ff1128cbc3491
-    projectPath: Library\Artifacts\8e\8ef690a32145e46bf38ff1128cbc3491
+  - path: Library\Artifacts\d6\d6a860770b65b2f185263c23cfb617fc
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\d6\d6a860770b65b2f185263c23cfb617fc
+    projectPath: Library\Artifacts\d6\d6a860770b65b2f185263c23cfb617fc
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\90\90cbb1198ff18f0583ebdb60743b0c00
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\90\90cbb1198ff18f0583ebdb60743b0c00
-    projectPath: Library\Artifacts\90\90cbb1198ff18f0583ebdb60743b0c00
+  - path: Library\Artifacts\da\dae836fa623a8cb2c41f9119a8cb7074
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\da\dae836fa623a8cb2c41f9119a8cb7074
+    projectPath: Library\Artifacts\da\dae836fa623a8cb2c41f9119a8cb7074
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\92\926724e74c06d8e3e67803c1a0116591
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\92\926724e74c06d8e3e67803c1a0116591
-    projectPath: Library\Artifacts\92\926724e74c06d8e3e67803c1a0116591
+  - path: Library\Artifacts\db\db1c174984635f3d748afe26fcdf2a98
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\db\db1c174984635f3d748afe26fcdf2a98
+    projectPath: Library\Artifacts\db\db1c174984635f3d748afe26fcdf2a98
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\95\95053a4b8af1eeaaddbd0c9d84acb52d
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\95\95053a4b8af1eeaaddbd0c9d84acb52d
-    projectPath: Library\Artifacts\95\95053a4b8af1eeaaddbd0c9d84acb52d
+  - path: Library\Artifacts\dc\dc33e0b0a157fa4069d862f13611a660
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\dc\dc33e0b0a157fa4069d862f13611a660
+    projectPath: Library\Artifacts\dc\dc33e0b0a157fa4069d862f13611a660
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\97\97f4abfd7eff0b766b04411a1a07a3c9
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\97\97f4abfd7eff0b766b04411a1a07a3c9
-    projectPath: Library\Artifacts\97\97f4abfd7eff0b766b04411a1a07a3c9
+  - path: Library\Artifacts\dc\dc3d8982c5279562ec56e76e64f33e1c
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\dc\dc3d8982c5279562ec56e76e64f33e1c
+    projectPath: Library\Artifacts\dc\dc3d8982c5279562ec56e76e64f33e1c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\99\9947a6d475a1d5f79732479569ae5d49
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\99\9947a6d475a1d5f79732479569ae5d49
-    projectPath: Library\Artifacts\99\9947a6d475a1d5f79732479569ae5d49
+  - path: Library\Artifacts\dc\dc69704d130ec5dd1cd712a407269746
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\dc\dc69704d130ec5dd1cd712a407269746
+    projectPath: Library\Artifacts\dc\dc69704d130ec5dd1cd712a407269746
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\9b\9b4d05f88719556b5d148023b024bb30
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\9b\9b4d05f88719556b5d148023b024bb30
-    projectPath: Library\Artifacts\9b\9b4d05f88719556b5d148023b024bb30
+  - path: Library\Artifacts\dd\dd25534632ec2587c382fca9fc5b602e
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\dd\dd25534632ec2587c382fca9fc5b602e
+    projectPath: Library\Artifacts\dd\dd25534632ec2587c382fca9fc5b602e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\9c\9c4102bf97e1dcb5778f9242addfdc36
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\9c\9c4102bf97e1dcb5778f9242addfdc36
-    projectPath: Library\Artifacts\9c\9c4102bf97e1dcb5778f9242addfdc36
+  - path: Library\Artifacts\e0\e006e6137442b00d3c5b3bd3254b60d8
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\e0\e006e6137442b00d3c5b3bd3254b60d8
+    projectPath: Library\Artifacts\e0\e006e6137442b00d3c5b3bd3254b60d8
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\9c\9c7394eb5a35a76d0db44e447bc66421
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\9c\9c7394eb5a35a76d0db44e447bc66421
-    projectPath: Library\Artifacts\9c\9c7394eb5a35a76d0db44e447bc66421
+  - path: Library\Artifacts\e0\e0fe2b5f24c94f44b171bfb54163c3fb
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\e0\e0fe2b5f24c94f44b171bfb54163c3fb
+    projectPath: Library\Artifacts\e0\e0fe2b5f24c94f44b171bfb54163c3fb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\9d\9d0f7394ea149c59e0d65e086828e1f0
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\9d\9d0f7394ea149c59e0d65e086828e1f0
-    projectPath: Library\Artifacts\9d\9d0f7394ea149c59e0d65e086828e1f0
+  - path: Library\Artifacts\e2\e2048969a8fa0e2d86541f7f35b5da8a
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\e2\e2048969a8fa0e2d86541f7f35b5da8a
+    projectPath: Library\Artifacts\e2\e2048969a8fa0e2d86541f7f35b5da8a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\9d\9d41ee72c778c934b1428886f8ac784e
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\9d\9d41ee72c778c934b1428886f8ac784e
-    projectPath: Library\Artifacts\9d\9d41ee72c778c934b1428886f8ac784e
+  - path: Library\Artifacts\e2\e2a3dfb50a35b1b32f555ecd74e268a8
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\e2\e2a3dfb50a35b1b32f555ecd74e268a8
+    projectPath: Library\Artifacts\e2\e2a3dfb50a35b1b32f555ecd74e268a8
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\9d\9db3a52ffa745784f38ad80ff2f6065e
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\9d\9db3a52ffa745784f38ad80ff2f6065e
-    projectPath: Library\Artifacts\9d\9db3a52ffa745784f38ad80ff2f6065e
+  - path: Library\Artifacts\e5\e591446ed5002bfc66b4c58f8f153231
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\e5\e591446ed5002bfc66b4c58f8f153231
+    projectPath: Library\Artifacts\e5\e591446ed5002bfc66b4c58f8f153231
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\a1\a1e4dd853994f7a86f7288865d3dcb7c
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\a1\a1e4dd853994f7a86f7288865d3dcb7c
-    projectPath: Library\Artifacts\a1\a1e4dd853994f7a86f7288865d3dcb7c
+  - path: Library\Artifacts\e6\e64c514cb71f8f42577d55a016b26946
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\e6\e64c514cb71f8f42577d55a016b26946
+    projectPath: Library\Artifacts\e6\e64c514cb71f8f42577d55a016b26946
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\a3\a35d608198eb4ff49672a4c369f28ff6
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\a3\a35d608198eb4ff49672a4c369f28ff6
-    projectPath: Library\Artifacts\a3\a35d608198eb4ff49672a4c369f28ff6
+  - path: Library\Artifacts\ea\ea2517cfe9eb191e5c52c6fb8ce2041f
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ea\ea2517cfe9eb191e5c52c6fb8ce2041f
+    projectPath: Library\Artifacts\ea\ea2517cfe9eb191e5c52c6fb8ce2041f
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\a4\a404024591c5d84d6c3ac0a128e67dc0
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\a4\a404024591c5d84d6c3ac0a128e67dc0
-    projectPath: Library\Artifacts\a4\a404024591c5d84d6c3ac0a128e67dc0
+  - path: Library\Artifacts\ea\ea9c6e5c735f0ab30821b06b375d3ee5
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ea\ea9c6e5c735f0ab30821b06b375d3ee5
+    projectPath: Library\Artifacts\ea\ea9c6e5c735f0ab30821b06b375d3ee5
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\a4\a4fc71212d732764a270f96420ec4e1c
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\a4\a4fc71212d732764a270f96420ec4e1c
-    projectPath: Library\Artifacts\a4\a4fc71212d732764a270f96420ec4e1c
+  - path: Library\Artifacts\ec\ec3c27d942160a97b827e615ae6ff020
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ec\ec3c27d942160a97b827e615ae6ff020
+    projectPath: Library\Artifacts\ec\ec3c27d942160a97b827e615ae6ff020
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\a5\a5dbe742e032d6e384b376e6b6178653
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\a5\a5dbe742e032d6e384b376e6b6178653
-    projectPath: Library\Artifacts\a5\a5dbe742e032d6e384b376e6b6178653
+  - path: Library\Artifacts\ed\ed57d45d7820f54460e56eeedb2fc9e3
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ed\ed57d45d7820f54460e56eeedb2fc9e3
+    projectPath: Library\Artifacts\ed\ed57d45d7820f54460e56eeedb2fc9e3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\a6\a65df3ce106140d5477bd65b7bbe867e
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\a6\a65df3ce106140d5477bd65b7bbe867e
-    projectPath: Library\Artifacts\a6\a65df3ce106140d5477bd65b7bbe867e
+  - path: Library\Artifacts\ef\ef75ea0d4ac60e207cab85e2c18d8473
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ef\ef75ea0d4ac60e207cab85e2c18d8473
+    projectPath: Library\Artifacts\ef\ef75ea0d4ac60e207cab85e2c18d8473
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\a6\a6e3e76248f81c6c71c5e282f0bd7e70
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\a6\a6e3e76248f81c6c71c5e282f0bd7e70
-    projectPath: Library\Artifacts\a6\a6e3e76248f81c6c71c5e282f0bd7e70
+  - path: Library\Artifacts\ef\efec2110f399babb833ce08c62971ce6
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ef\efec2110f399babb833ce08c62971ce6
+    projectPath: Library\Artifacts\ef\efec2110f399babb833ce08c62971ce6
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\a7\a70702fdd183c864346d373390270549
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\a7\a70702fdd183c864346d373390270549
-    projectPath: Library\Artifacts\a7\a70702fdd183c864346d373390270549
+  - path: Library\Artifacts\f0\f0e5c35faeaa3c750a73f844cd952b9c
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\f0\f0e5c35faeaa3c750a73f844cd952b9c
+    projectPath: Library\Artifacts\f0\f0e5c35faeaa3c750a73f844cd952b9c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\a9\a91d59c307068884c9ae25f1b1a9d739
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\a9\a91d59c307068884c9ae25f1b1a9d739
-    projectPath: Library\Artifacts\a9\a91d59c307068884c9ae25f1b1a9d739
+  - path: Library\Artifacts\f4\f49bef303179428dcac2c4efccd9b74f
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\f4\f49bef303179428dcac2c4efccd9b74f
+    projectPath: Library\Artifacts\f4\f49bef303179428dcac2c4efccd9b74f
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\aa\aa1f78adf562547d6428c6070c7ad799
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\aa\aa1f78adf562547d6428c6070c7ad799
-    projectPath: Library\Artifacts\aa\aa1f78adf562547d6428c6070c7ad799
+  - path: Library\Artifacts\f5\f599b19d8e80804f0c06c86eba7d07e6
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\f5\f599b19d8e80804f0c06c86eba7d07e6
+    projectPath: Library\Artifacts\f5\f599b19d8e80804f0c06c86eba7d07e6
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\ab\ab24bb7297a381bc62e4429b68d30d97
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ab\ab24bb7297a381bc62e4429b68d30d97
-    projectPath: Library\Artifacts\ab\ab24bb7297a381bc62e4429b68d30d97
+  - path: Library\Artifacts\f7\f76a726b8befe45875469cd036d91a99
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\f7\f76a726b8befe45875469cd036d91a99
+    projectPath: Library\Artifacts\f7\f76a726b8befe45875469cd036d91a99
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\ae\ae8c5c3b86e3a6ff84dac1fdb2ad5cc3
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ae\ae8c5c3b86e3a6ff84dac1fdb2ad5cc3
-    projectPath: Library\Artifacts\ae\ae8c5c3b86e3a6ff84dac1fdb2ad5cc3
+  - path: Library\Artifacts\f7\f7b95930302daa683a057c7ab606c497
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\f7\f7b95930302daa683a057c7ab606c497
+    projectPath: Library\Artifacts\f7\f7b95930302daa683a057c7ab606c497
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\b4\b49bf61168647c484b73a1f004c0df6d
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\b4\b49bf61168647c484b73a1f004c0df6d
-    projectPath: Library\Artifacts\b4\b49bf61168647c484b73a1f004c0df6d
+  - path: Library\Artifacts\f7\f7da9314e99adf54686487c11a8ea84d
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\f7\f7da9314e99adf54686487c11a8ea84d
+    projectPath: Library\Artifacts\f7\f7da9314e99adf54686487c11a8ea84d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\b5\b56a315cc8a3ce476ae25d1340970fe5
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\b5\b56a315cc8a3ce476ae25d1340970fe5
-    projectPath: Library\Artifacts\b5\b56a315cc8a3ce476ae25d1340970fe5
+  - path: Library\Artifacts\fa\fa2cbe4ad30e3ad88cc205be3804352e
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\fa\fa2cbe4ad30e3ad88cc205be3804352e
+    projectPath: Library\Artifacts\fa\fa2cbe4ad30e3ad88cc205be3804352e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\b6\b629f576838a71bc037fb4c688addedb
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\b6\b629f576838a71bc037fb4c688addedb
-    projectPath: Library\Artifacts\b6\b629f576838a71bc037fb4c688addedb
+  - path: Library\Artifacts\fa\faebd24dedce07402f25d4c35e8e4904
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\fa\faebd24dedce07402f25d4c35e8e4904
+    projectPath: Library\Artifacts\fa\faebd24dedce07402f25d4c35e8e4904
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\b7\b7b6b807bf54e5ba8b0d1f6ac25c1ccf
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\b7\b7b6b807bf54e5ba8b0d1f6ac25c1ccf
-    projectPath: Library\Artifacts\b7\b7b6b807bf54e5ba8b0d1f6ac25c1ccf
+  - path: Library\Artifacts\fd\fd5bc8ab6691daa0f93774b5c03be150
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\fd\fd5bc8ab6691daa0f93774b5c03be150
+    projectPath: Library\Artifacts\fd\fd5bc8ab6691daa0f93774b5c03be150
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\ba\bab929086daa60c1ad1b70233652afd1
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ba\bab929086daa60c1ad1b70233652afd1
-    projectPath: Library\Artifacts\ba\bab929086daa60c1ad1b70233652afd1
+  - path: Library\Artifacts\fe\fea49c4bf7af435f1ffdf22c4baf7f9c
+    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\fe\fea49c4bf7af435f1ffdf22c4baf7f9c
+    projectPath: Library\Artifacts\fe\fea49c4bf7af435f1ffdf22c4baf7f9c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\ba\baf732b3c494ed8ff1d94ae77b692641
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ba\baf732b3c494ed8ff1d94ae77b692641
-    projectPath: Library\Artifacts\ba\baf732b3c494ed8ff1d94ae77b692641
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\bc\bc1c3481b2925fa46935b88881017779
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\bc\bc1c3481b2925fa46935b88881017779
-    projectPath: Library\Artifacts\bc\bc1c3481b2925fa46935b88881017779
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\bc\bc2a5beb8d47d23d1b434cdedb8fb560
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\bc\bc2a5beb8d47d23d1b434cdedb8fb560
-    projectPath: Library\Artifacts\bc\bc2a5beb8d47d23d1b434cdedb8fb560
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\bc\bcbec263cd8a15912f69b11878612f59
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\bc\bcbec263cd8a15912f69b11878612f59
-    projectPath: Library\Artifacts\bc\bcbec263cd8a15912f69b11878612f59
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\bd\bd445e69fbbd258a89edd1ea37f6b7bb
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\bd\bd445e69fbbd258a89edd1ea37f6b7bb
-    projectPath: Library\Artifacts\bd\bd445e69fbbd258a89edd1ea37f6b7bb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\bd\bdbd61731745f3a3afd88ecebe8e78d6
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\bd\bdbd61731745f3a3afd88ecebe8e78d6
-    projectPath: Library\Artifacts\bd\bdbd61731745f3a3afd88ecebe8e78d6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\bf\bf564a577c36fca6118e1bb977716b24
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\bf\bf564a577c36fca6118e1bb977716b24
-    projectPath: Library\Artifacts\bf\bf564a577c36fca6118e1bb977716b24
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c0\c0099414e058d94ab9520f79707e7e7a
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\c0\c0099414e058d94ab9520f79707e7e7a
-    projectPath: Library\Artifacts\c0\c0099414e058d94ab9520f79707e7e7a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c3\c33a5d266c1e4aab52ad1dac4ba57b20
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\c3\c33a5d266c1e4aab52ad1dac4ba57b20
-    projectPath: Library\Artifacts\c3\c33a5d266c1e4aab52ad1dac4ba57b20
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c3\c3c68c651099d4edd3a5ecdce80671d2
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\c3\c3c68c651099d4edd3a5ecdce80671d2
-    projectPath: Library\Artifacts\c3\c3c68c651099d4edd3a5ecdce80671d2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c4\c42ceb6d4528dd8656a9ab209678f4d5
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\c4\c42ceb6d4528dd8656a9ab209678f4d5
-    projectPath: Library\Artifacts\c4\c42ceb6d4528dd8656a9ab209678f4d5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c4\c493fd46a159510bb04bfbfe5676e981
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\c4\c493fd46a159510bb04bfbfe5676e981
-    projectPath: Library\Artifacts\c4\c493fd46a159510bb04bfbfe5676e981
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c8\c8832bfcca57a3a9ac440ab99ae9ae6f
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\c8\c8832bfcca57a3a9ac440ab99ae9ae6f
-    projectPath: Library\Artifacts\c8\c8832bfcca57a3a9ac440ab99ae9ae6f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ca\ca43d342764a5f054513bdd59e317a13
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ca\ca43d342764a5f054513bdd59e317a13
-    projectPath: Library\Artifacts\ca\ca43d342764a5f054513bdd59e317a13
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ca\cae5546b39d168dd199f8ac234f9146a
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ca\cae5546b39d168dd199f8ac234f9146a
-    projectPath: Library\Artifacts\ca\cae5546b39d168dd199f8ac234f9146a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\cb\cbda6d2c4e5939cfbe88c5da7e0a2d3d
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\cb\cbda6d2c4e5939cfbe88c5da7e0a2d3d
-    projectPath: Library\Artifacts\cb\cbda6d2c4e5939cfbe88c5da7e0a2d3d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\cd\cdda0f14578ba5ec63e64bc03627dc81
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\cd\cdda0f14578ba5ec63e64bc03627dc81
-    projectPath: Library\Artifacts\cd\cdda0f14578ba5ec63e64bc03627dc81
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d1\d1e359fa184a96bb1e97f62598e34443
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\d1\d1e359fa184a96bb1e97f62598e34443
-    projectPath: Library\Artifacts\d1\d1e359fa184a96bb1e97f62598e34443
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d2\d2b3e42d1e6179dc66fbc4ef0d6efcf2
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\d2\d2b3e42d1e6179dc66fbc4ef0d6efcf2
-    projectPath: Library\Artifacts\d2\d2b3e42d1e6179dc66fbc4ef0d6efcf2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d4\d46ad7628d802b80fb9624a3af5b5f01
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\d4\d46ad7628d802b80fb9624a3af5b5f01
-    projectPath: Library\Artifacts\d4\d46ad7628d802b80fb9624a3af5b5f01
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d6\d6b1dd694caf9959643b06a2ccfa1e97
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\d6\d6b1dd694caf9959643b06a2ccfa1e97
-    projectPath: Library\Artifacts\d6\d6b1dd694caf9959643b06a2ccfa1e97
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d7\d73c14a30c289a65b60ad9bc1449b0ad
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\d7\d73c14a30c289a65b60ad9bc1449b0ad
-    projectPath: Library\Artifacts\d7\d73c14a30c289a65b60ad9bc1449b0ad
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d7\d78c864d487fd94249b38ec858ea95b8
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\d7\d78c864d487fd94249b38ec858ea95b8
-    projectPath: Library\Artifacts\d7\d78c864d487fd94249b38ec858ea95b8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\da\da0a2cee3b3333bc9300fe67dc8e4c0e
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\da\da0a2cee3b3333bc9300fe67dc8e4c0e
-    projectPath: Library\Artifacts\da\da0a2cee3b3333bc9300fe67dc8e4c0e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e1\e14d1c89b850ca7cfc5dd9a2ac5604ad
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\e1\e14d1c89b850ca7cfc5dd9a2ac5604ad
-    projectPath: Library\Artifacts\e1\e14d1c89b850ca7cfc5dd9a2ac5604ad
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e4\e4170cab1ef31718022a547ab5b71e8a
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\e4\e4170cab1ef31718022a547ab5b71e8a
-    projectPath: Library\Artifacts\e4\e4170cab1ef31718022a547ab5b71e8a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e4\e4fa742aeeaee2c826a25115a2afc69c
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\e4\e4fa742aeeaee2c826a25115a2afc69c
-    projectPath: Library\Artifacts\e4\e4fa742aeeaee2c826a25115a2afc69c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e7\e75818d3c3c7ce135a228d1e5d22f144
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\e7\e75818d3c3c7ce135a228d1e5d22f144
-    projectPath: Library\Artifacts\e7\e75818d3c3c7ce135a228d1e5d22f144
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e8\e8e8ab1484588fd0daedcaa3c1acb9d3
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\e8\e8e8ab1484588fd0daedcaa3c1acb9d3
-    projectPath: Library\Artifacts\e8\e8e8ab1484588fd0daedcaa3c1acb9d3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ec\ec87f65371bf656bf8ddb664eb47fc64
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ec\ec87f65371bf656bf8ddb664eb47fc64
-    projectPath: Library\Artifacts\ec\ec87f65371bf656bf8ddb664eb47fc64
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ed\ed8b119bc0c6f8b64bec9e056e758fbe
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ed\ed8b119bc0c6f8b64bec9e056e758fbe
-    projectPath: Library\Artifacts\ed\ed8b119bc0c6f8b64bec9e056e758fbe
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ef\ef3914da4344ecf387d77d168487d5b1
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ef\ef3914da4344ecf387d77d168487d5b1
-    projectPath: Library\Artifacts\ef\ef3914da4344ecf387d77d168487d5b1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ef\eff195f6bc0c882ff4969181d618137c
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ef\eff195f6bc0c882ff4969181d618137c
-    projectPath: Library\Artifacts\ef\eff195f6bc0c882ff4969181d618137c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f0\f0ec5e1127af006431c44c3e8fc6fb5f
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\f0\f0ec5e1127af006431c44c3e8fc6fb5f
-    projectPath: Library\Artifacts\f0\f0ec5e1127af006431c44c3e8fc6fb5f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f1\f1e9e67f2b257f09a9a8f361b089adea
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\f1\f1e9e67f2b257f09a9a8f361b089adea
-    projectPath: Library\Artifacts\f1\f1e9e67f2b257f09a9a8f361b089adea
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f2\f2a134165ca2308c2e221cb14af8d2e1
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\f2\f2a134165ca2308c2e221cb14af8d2e1
-    projectPath: Library\Artifacts\f2\f2a134165ca2308c2e221cb14af8d2e1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f2\f2f48bda43fc63ee2e12ffdaff84ee8e
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\f2\f2f48bda43fc63ee2e12ffdaff84ee8e
-    projectPath: Library\Artifacts\f2\f2f48bda43fc63ee2e12ffdaff84ee8e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f5\f5ca130cb3e671978026a158f1701ee7
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\f5\f5ca130cb3e671978026a158f1701ee7
-    projectPath: Library\Artifacts\f5\f5ca130cb3e671978026a158f1701ee7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f7\f7700df6acb5a234feaae0ceee627204
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\f7\f7700df6acb5a234feaae0ceee627204
-    projectPath: Library\Artifacts\f7\f7700df6acb5a234feaae0ceee627204
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f7\f7b869f5c919055a847d9504a5d7828b
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\f7\f7b869f5c919055a847d9504a5d7828b
-    projectPath: Library\Artifacts\f7\f7b869f5c919055a847d9504a5d7828b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f8\f8d98fa533e0997b2792d204549d67e2
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\f8\f8d98fa533e0997b2792d204549d67e2
-    projectPath: Library\Artifacts\f8\f8d98fa533e0997b2792d204549d67e2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f9\f9e166322e44474dc681bbcfaa9ad9f9
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\f9\f9e166322e44474dc681bbcfaa9ad9f9
-    projectPath: Library\Artifacts\f9\f9e166322e44474dc681bbcfaa9ad9f9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\fc\fcaa1d1d300083edaedb70d9049ce55b
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\fc\fcaa1d1d300083edaedb70d9049ce55b
-    projectPath: Library\Artifacts\fc\fcaa1d1d300083edaedb70d9049ce55b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\fe\fe48224951e05bb673db70fecde11d83
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\fe\fe48224951e05bb673db70fecde11d83
-    projectPath: Library\Artifacts\fe\fe48224951e05bb673db70fecde11d83
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ff\ffa24b8070520554b9de5f6fe36417d1
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ff\ffa24b8070520554b9de5f6fe36417d1
-    projectPath: Library\Artifacts\ff\ffa24b8070520554b9de5f6fe36417d1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ff\ffceea642652f56c2ac994508ff040ab
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ff\ffceea642652f56c2ac994508ff040ab
-    projectPath: Library\Artifacts\ff\ffceea642652f56c2ac994508ff040ab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ff\ffde11573f8272fe61e5273bd6d84ce3
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\Artifacts\ff\ffde11573f8272fe61e5273bd6d84ce3
-    projectPath: Library\Artifacts\ff\ffde11573f8272fe61e5273bd6d84ce3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\EditorSnapSettings.asset
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\EditorSnapSettings.asset
-    projectPath: Library\EditorSnapSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\gfu\cache\gittrackingstatus.yaml
-    projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
     fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll
-    projectPath: Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
-    projectPath: Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.ShaderGraph.Utilities.dll
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\Unity.ShaderGraph.Utilities.dll
-    projectPath: Library\ScriptAssemblies\Unity.ShaderGraph.Utilities.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1625,1209 +1024,3 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\Hierarchy\444060-2e28d664ea6d8204ca.json
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\StateCache\Hierarchy\444060-2e28d664ea6d8204ca.json
-    projectPath: Library\StateCache\Hierarchy\444060-2e28d664ea6d8204ca.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\Hierarchy\444060-mainStage.json
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\StateCache\Hierarchy\444060-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\444060-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\SceneView\de4bda-mainStage.json
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Library\StateCache\SceneView\de4bda-mainStage.json
-    projectPath: Library\StateCache\SceneView\de4bda-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-05693e13869264c40aa5ce14f2b87a3a.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-05693e13869264c40aa5ce14f2b87a3a.unwrap
-    projectPath: Temp\input-05693e13869264c40aa5ce14f2b87a3a.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-07d56c44bc754554fb5ebb5ed12347e3.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-07d56c44bc754554fb5ebb5ed12347e3.unwrap
-    projectPath: Temp\input-07d56c44bc754554fb5ebb5ed12347e3.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-08699ebd9515cc6448bd10464313316f.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-08699ebd9515cc6448bd10464313316f.unwrap
-    projectPath: Temp\input-08699ebd9515cc6448bd10464313316f.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-099f2e13e0f8ff34ca8cf97bd2899166.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-099f2e13e0f8ff34ca8cf97bd2899166.unwrap
-    projectPath: Temp\input-099f2e13e0f8ff34ca8cf97bd2899166.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-14c2e45e0376a914daba0b6c9b5bd89f.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-14c2e45e0376a914daba0b6c9b5bd89f.unwrap
-    projectPath: Temp\input-14c2e45e0376a914daba0b6c9b5bd89f.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-16244b0f1787188499fe9054a78f2a59.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-16244b0f1787188499fe9054a78f2a59.unwrap
-    projectPath: Temp\input-16244b0f1787188499fe9054a78f2a59.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-175c03a37ba5e984f8a6a4ac824bd381.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-175c03a37ba5e984f8a6a4ac824bd381.unwrap
-    projectPath: Temp\input-175c03a37ba5e984f8a6a4ac824bd381.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-18df58c0100c5ed429869762fff65097.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-18df58c0100c5ed429869762fff65097.unwrap
-    projectPath: Temp\input-18df58c0100c5ed429869762fff65097.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-1b0e3cbe0f726a04e8fad83dd7fdaa9a.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-1b0e3cbe0f726a04e8fad83dd7fdaa9a.unwrap
-    projectPath: Temp\input-1b0e3cbe0f726a04e8fad83dd7fdaa9a.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-22d03eaf14c105847992088e580ee8c8.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-22d03eaf14c105847992088e580ee8c8.unwrap
-    projectPath: Temp\input-22d03eaf14c105847992088e580ee8c8.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-237b0527bd9626141ad3f15555a749f8.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-237b0527bd9626141ad3f15555a749f8.unwrap
-    projectPath: Temp\input-237b0527bd9626141ad3f15555a749f8.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-26632f6fe5a285d459edc639ec44eb9b.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-26632f6fe5a285d459edc639ec44eb9b.unwrap
-    projectPath: Temp\input-26632f6fe5a285d459edc639ec44eb9b.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-2e63b0f180de78647b4804ec61115d16.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-2e63b0f180de78647b4804ec61115d16.unwrap
-    projectPath: Temp\input-2e63b0f180de78647b4804ec61115d16.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-38ae5d2c1f6830c4ba05c61e518ea99c.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-38ae5d2c1f6830c4ba05c61e518ea99c.unwrap
-    projectPath: Temp\input-38ae5d2c1f6830c4ba05c61e518ea99c.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-4554e77303689b0488e8a5e5247f046e.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-4554e77303689b0488e8a5e5247f046e.unwrap
-    projectPath: Temp\input-4554e77303689b0488e8a5e5247f046e.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-465a08d3b6d80794490b9234404d2e34.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-465a08d3b6d80794490b9234404d2e34.unwrap
-    projectPath: Temp\input-465a08d3b6d80794490b9234404d2e34.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-4dff779b5a636f746ae9f5e84d313073.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-4dff779b5a636f746ae9f5e84d313073.unwrap
-    projectPath: Temp\input-4dff779b5a636f746ae9f5e84d313073.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-522b5a66f99382643a4239d8e95d42a4.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-522b5a66f99382643a4239d8e95d42a4.unwrap
-    projectPath: Temp\input-522b5a66f99382643a4239d8e95d42a4.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-58c987c6a2ef46b4d8936d52ec49472b.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-58c987c6a2ef46b4d8936d52ec49472b.unwrap
-    projectPath: Temp\input-58c987c6a2ef46b4d8936d52ec49472b.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-5a7b1d2153fd1154e88b9e57b7f9b7a3.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-5a7b1d2153fd1154e88b9e57b7f9b7a3.unwrap
-    projectPath: Temp\input-5a7b1d2153fd1154e88b9e57b7f9b7a3.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-5da693aff01b2c141bcb53a4578b9fdd.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-5da693aff01b2c141bcb53a4578b9fdd.unwrap
-    projectPath: Temp\input-5da693aff01b2c141bcb53a4578b9fdd.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-5fda5b8790d7fff4ba930c859cea7ddb.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-5fda5b8790d7fff4ba930c859cea7ddb.unwrap
-    projectPath: Temp\input-5fda5b8790d7fff4ba930c859cea7ddb.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-60307f0ce43713a4590b7ba623e9dd51.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-60307f0ce43713a4590b7ba623e9dd51.unwrap
-    projectPath: Temp\input-60307f0ce43713a4590b7ba623e9dd51.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-6309d61edd9fc3f4faff75695664a3b7.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-6309d61edd9fc3f4faff75695664a3b7.unwrap
-    projectPath: Temp\input-6309d61edd9fc3f4faff75695664a3b7.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-6489128c80a81d54db62bf9151b666ae.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-6489128c80a81d54db62bf9151b666ae.unwrap
-    projectPath: Temp\input-6489128c80a81d54db62bf9151b666ae.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-6c2baeec77af1004f91f8b7fbcbcc6f9.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-6c2baeec77af1004f91f8b7fbcbcc6f9.unwrap
-    projectPath: Temp\input-6c2baeec77af1004f91f8b7fbcbcc6f9.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-6c45941d29afbd4478c4803c0fabe408.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-6c45941d29afbd4478c4803c0fabe408.unwrap
-    projectPath: Temp\input-6c45941d29afbd4478c4803c0fabe408.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-6d2c4f2a900b3c545acce1ec62397f58.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-6d2c4f2a900b3c545acce1ec62397f58.unwrap
-    projectPath: Temp\input-6d2c4f2a900b3c545acce1ec62397f58.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-6e38f892fc66f0b4a89900dbdad5958d.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-6e38f892fc66f0b4a89900dbdad5958d.unwrap
-    projectPath: Temp\input-6e38f892fc66f0b4a89900dbdad5958d.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-71a0a635a9d46ba4dad1f489d938e6ae.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-71a0a635a9d46ba4dad1f489d938e6ae.unwrap
-    projectPath: Temp\input-71a0a635a9d46ba4dad1f489d938e6ae.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-7327e6ba3bb0d4143bb10dfc2b661a96.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-7327e6ba3bb0d4143bb10dfc2b661a96.unwrap
-    projectPath: Temp\input-7327e6ba3bb0d4143bb10dfc2b661a96.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-756e2a6c714a61c4daff518f35b88518.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-756e2a6c714a61c4daff518f35b88518.unwrap
-    projectPath: Temp\input-756e2a6c714a61c4daff518f35b88518.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-79dcf787039c56a4a8338468bb5923ad.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-79dcf787039c56a4a8338468bb5923ad.unwrap
-    projectPath: Temp\input-79dcf787039c56a4a8338468bb5923ad.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-7be120d28bf7dc647811b5ac6d301d24.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-7be120d28bf7dc647811b5ac6d301d24.unwrap
-    projectPath: Temp\input-7be120d28bf7dc647811b5ac6d301d24.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-8c4a4b74dd487ab439b4cf509659d8b1.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-8c4a4b74dd487ab439b4cf509659d8b1.unwrap
-    projectPath: Temp\input-8c4a4b74dd487ab439b4cf509659d8b1.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-8e0bb0656619d014dbb3a717df0040bd.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-8e0bb0656619d014dbb3a717df0040bd.unwrap
-    projectPath: Temp\input-8e0bb0656619d014dbb3a717df0040bd.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-919c28e5a7f19f440810e6caa747b957.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-919c28e5a7f19f440810e6caa747b957.unwrap
-    projectPath: Temp\input-919c28e5a7f19f440810e6caa747b957.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-91ec5c297cbc3d14c9aef8b19f2688a5.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-91ec5c297cbc3d14c9aef8b19f2688a5.unwrap
-    projectPath: Temp\input-91ec5c297cbc3d14c9aef8b19f2688a5.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-954f57792f1d70d4394318fe65a64c28.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-954f57792f1d70d4394318fe65a64c28.unwrap
-    projectPath: Temp\input-954f57792f1d70d4394318fe65a64c28.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-98a1a1bb1abe7c84883308881743b581.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-98a1a1bb1abe7c84883308881743b581.unwrap
-    projectPath: Temp\input-98a1a1bb1abe7c84883308881743b581.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-9d9a0674889bd834f83f097a9ecbdcca.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-9d9a0674889bd834f83f097a9ecbdcca.unwrap
-    projectPath: Temp\input-9d9a0674889bd834f83f097a9ecbdcca.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-9e0dddfcfd597c94480a2684edabc331.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-9e0dddfcfd597c94480a2684edabc331.unwrap
-    projectPath: Temp\input-9e0dddfcfd597c94480a2684edabc331.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-a8bd69db3bce15242a43a2007bd0629f.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-a8bd69db3bce15242a43a2007bd0629f.unwrap
-    projectPath: Temp\input-a8bd69db3bce15242a43a2007bd0629f.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-ad5e9742074055d40900bb5c7a780d4a.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-ad5e9742074055d40900bb5c7a780d4a.unwrap
-    projectPath: Temp\input-ad5e9742074055d40900bb5c7a780d4a.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-afa0e6f7fdfb4b64cbdcc7d56d54eafe.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-afa0e6f7fdfb4b64cbdcc7d56d54eafe.unwrap
-    projectPath: Temp\input-afa0e6f7fdfb4b64cbdcc7d56d54eafe.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-bb12020d124cec7478ba6781245ba3c3.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-bb12020d124cec7478ba6781245ba3c3.unwrap
-    projectPath: Temp\input-bb12020d124cec7478ba6781245ba3c3.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-c112af13e7e4d5d4fa73b079693c58ba.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-c112af13e7e4d5d4fa73b079693c58ba.unwrap
-    projectPath: Temp\input-c112af13e7e4d5d4fa73b079693c58ba.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-c2f8c0c40ffa6ca43ab25d1706e30072.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-c2f8c0c40ffa6ca43ab25d1706e30072.unwrap
-    projectPath: Temp\input-c2f8c0c40ffa6ca43ab25d1706e30072.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-c3b80aaf0583c9d4dbb23396a6428b42.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-c3b80aaf0583c9d4dbb23396a6428b42.unwrap
-    projectPath: Temp\input-c3b80aaf0583c9d4dbb23396a6428b42.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-d452a53217b895241b198b3bab3ad197.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-d452a53217b895241b198b3bab3ad197.unwrap
-    projectPath: Temp\input-d452a53217b895241b198b3bab3ad197.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-d7ff73f8a7e5d5441a9e8e6ac19029d0.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-d7ff73f8a7e5d5441a9e8e6ac19029d0.unwrap
-    projectPath: Temp\input-d7ff73f8a7e5d5441a9e8e6ac19029d0.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-d909a7d8b73d97542ab75cfa59a068ec.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-d909a7d8b73d97542ab75cfa59a068ec.unwrap
-    projectPath: Temp\input-d909a7d8b73d97542ab75cfa59a068ec.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-d98eaf79b0a1ae74fba11d3bc518c024.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-d98eaf79b0a1ae74fba11d3bc518c024.unwrap
-    projectPath: Temp\input-d98eaf79b0a1ae74fba11d3bc518c024.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-db4686f55c7fab84893ecd24618ff186.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-db4686f55c7fab84893ecd24618ff186.unwrap
-    projectPath: Temp\input-db4686f55c7fab84893ecd24618ff186.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-df1a43d3c986244409fa212829233f0b.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-df1a43d3c986244409fa212829233f0b.unwrap
-    projectPath: Temp\input-df1a43d3c986244409fa212829233f0b.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-e365b490a9d91bb4db30dea28ca63ae6.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-e365b490a9d91bb4db30dea28ca63ae6.unwrap
-    projectPath: Temp\input-e365b490a9d91bb4db30dea28ca63ae6.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-eae67bb1a18bb144ba00fbb73c6a1af3.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-eae67bb1a18bb144ba00fbb73c6a1af3.unwrap
-    projectPath: Temp\input-eae67bb1a18bb144ba00fbb73c6a1af3.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-ec1f2a88a6c92764087636f03f30af14.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-ec1f2a88a6c92764087636f03f30af14.unwrap
-    projectPath: Temp\input-ec1f2a88a6c92764087636f03f30af14.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-f0d8e06a042bb3d4eb6c02610bb52454.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-f0d8e06a042bb3d4eb6c02610bb52454.unwrap
-    projectPath: Temp\input-f0d8e06a042bb3d4eb6c02610bb52454.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\input-fd6bea5724cac7843874b9d4aa8e6267.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\input-fd6bea5724cac7843874b9d4aa8e6267.unwrap
-    projectPath: Temp\input-fd6bea5724cac7843874b9d4aa8e6267.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-0b802872af5b4c54bbbc4e9d7f14e121.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-0b802872af5b4c54bbbc4e9d7f14e121.unwrap
-    projectPath: Temp\output-0b802872af5b4c54bbbc4e9d7f14e121.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-0c13c62cf8c49204693273cd4d83f21c.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-0c13c62cf8c49204693273cd4d83f21c.unwrap
-    projectPath: Temp\output-0c13c62cf8c49204693273cd4d83f21c.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-0e57adb933079a04dac7baa30542fe8b.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-0e57adb933079a04dac7baa30542fe8b.unwrap
-    projectPath: Temp\output-0e57adb933079a04dac7baa30542fe8b.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-132a9313359f1f245adfaa3630f137ae.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-132a9313359f1f245adfaa3630f137ae.unwrap
-    projectPath: Temp\output-132a9313359f1f245adfaa3630f137ae.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-145dbff8ff2840d43a6a89cb5db287ea.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-145dbff8ff2840d43a6a89cb5db287ea.unwrap
-    projectPath: Temp\output-145dbff8ff2840d43a6a89cb5db287ea.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-19ee9cd901544ed408cbb8d4ddd672ba.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-19ee9cd901544ed408cbb8d4ddd672ba.unwrap
-    projectPath: Temp\output-19ee9cd901544ed408cbb8d4ddd672ba.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-1a79754afa8568c48a931f7f9303a0b1.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-1a79754afa8568c48a931f7f9303a0b1.unwrap
-    projectPath: Temp\output-1a79754afa8568c48a931f7f9303a0b1.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-1c2b2ad7d9969714e8c85cba689210bb.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-1c2b2ad7d9969714e8c85cba689210bb.unwrap
-    projectPath: Temp\output-1c2b2ad7d9969714e8c85cba689210bb.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-26d708989861f924aa9e6c4c9d5e93ac.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-26d708989861f924aa9e6c4c9d5e93ac.unwrap
-    projectPath: Temp\output-26d708989861f924aa9e6c4c9d5e93ac.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-281643a9630ccd74b9a447e45edcbddc.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-281643a9630ccd74b9a447e45edcbddc.unwrap
-    projectPath: Temp\output-281643a9630ccd74b9a447e45edcbddc.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-2cbc85c5f031df84a9e6fddbe4c3897b.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-2cbc85c5f031df84a9e6fddbe4c3897b.unwrap
-    projectPath: Temp\output-2cbc85c5f031df84a9e6fddbe4c3897b.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-2cc1fba90ef098a47a46395901915676.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-2cc1fba90ef098a47a46395901915676.unwrap
-    projectPath: Temp\output-2cc1fba90ef098a47a46395901915676.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-2ec82bcdd34cfb44dbaf5cae3c7876b8.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-2ec82bcdd34cfb44dbaf5cae3c7876b8.unwrap
-    projectPath: Temp\output-2ec82bcdd34cfb44dbaf5cae3c7876b8.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-2f774a9147726044cbead151e017ea0d.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-2f774a9147726044cbead151e017ea0d.unwrap
-    projectPath: Temp\output-2f774a9147726044cbead151e017ea0d.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-30f6d5fcf24e18443b3ff568b68ef648.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-30f6d5fcf24e18443b3ff568b68ef648.unwrap
-    projectPath: Temp\output-30f6d5fcf24e18443b3ff568b68ef648.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-358beec897b29e843b052d967f9edbd5.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-358beec897b29e843b052d967f9edbd5.unwrap
-    projectPath: Temp\output-358beec897b29e843b052d967f9edbd5.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-46ede56e83c4cf44eba690c533a1305d.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-46ede56e83c4cf44eba690c533a1305d.unwrap
-    projectPath: Temp\output-46ede56e83c4cf44eba690c533a1305d.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-483e46ebd69deac419b16535e1ee82f9.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-483e46ebd69deac419b16535e1ee82f9.unwrap
-    projectPath: Temp\output-483e46ebd69deac419b16535e1ee82f9.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-49a1de30f76e7e04883a2c65bd2e75c5.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-49a1de30f76e7e04883a2c65bd2e75c5.unwrap
-    projectPath: Temp\output-49a1de30f76e7e04883a2c65bd2e75c5.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-4eea1d0afe64d974bb44b536b656ee21.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-4eea1d0afe64d974bb44b536b656ee21.unwrap
-    projectPath: Temp\output-4eea1d0afe64d974bb44b536b656ee21.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-523dcad189f6a844397fd3373850e419.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-523dcad189f6a844397fd3373850e419.unwrap
-    projectPath: Temp\output-523dcad189f6a844397fd3373850e419.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-54ed48a0331db044485739e0ba736717.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-54ed48a0331db044485739e0ba736717.unwrap
-    projectPath: Temp\output-54ed48a0331db044485739e0ba736717.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-5a2a4ba69182b6942887725e9f61cc2a.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-5a2a4ba69182b6942887725e9f61cc2a.unwrap
-    projectPath: Temp\output-5a2a4ba69182b6942887725e9f61cc2a.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-61df18257de258e42a40fbabba97fca1.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-61df18257de258e42a40fbabba97fca1.unwrap
-    projectPath: Temp\output-61df18257de258e42a40fbabba97fca1.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-65a09a353749eb040864aff2206b104f.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-65a09a353749eb040864aff2206b104f.unwrap
-    projectPath: Temp\output-65a09a353749eb040864aff2206b104f.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-66fbfe5b09636ed4aa979aee7984b7b9.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-66fbfe5b09636ed4aa979aee7984b7b9.unwrap
-    projectPath: Temp\output-66fbfe5b09636ed4aa979aee7984b7b9.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-7937e066b1782bb4eb3b8c8a497de018.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-7937e066b1782bb4eb3b8c8a497de018.unwrap
-    projectPath: Temp\output-7937e066b1782bb4eb3b8c8a497de018.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-7be5aa1b0a0f3b04f99ed2587b9cba9c.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-7be5aa1b0a0f3b04f99ed2587b9cba9c.unwrap
-    projectPath: Temp\output-7be5aa1b0a0f3b04f99ed2587b9cba9c.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-807b77a44cde1e8459a8b419ccf1fbdc.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-807b77a44cde1e8459a8b419ccf1fbdc.unwrap
-    projectPath: Temp\output-807b77a44cde1e8459a8b419ccf1fbdc.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-817592d765215c64299970d0bf1c76b1.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-817592d765215c64299970d0bf1c76b1.unwrap
-    projectPath: Temp\output-817592d765215c64299970d0bf1c76b1.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-86c07ff9a9bb38d44bb16a83cdc2d4d0.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-86c07ff9a9bb38d44bb16a83cdc2d4d0.unwrap
-    projectPath: Temp\output-86c07ff9a9bb38d44bb16a83cdc2d4d0.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-900d3e1dbcb016d48bc918d029ca8732.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-900d3e1dbcb016d48bc918d029ca8732.unwrap
-    projectPath: Temp\output-900d3e1dbcb016d48bc918d029ca8732.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-92cbce11787339440a81c9d58e9db1f8.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-92cbce11787339440a81c9d58e9db1f8.unwrap
-    projectPath: Temp\output-92cbce11787339440a81c9d58e9db1f8.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-95f2f96d447d99348942189eea4ce5ea.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-95f2f96d447d99348942189eea4ce5ea.unwrap
-    projectPath: Temp\output-95f2f96d447d99348942189eea4ce5ea.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-a27ccd3aa6097d842b759d047f786686.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-a27ccd3aa6097d842b759d047f786686.unwrap
-    projectPath: Temp\output-a27ccd3aa6097d842b759d047f786686.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-a5911265de9664d46a5d110f70d9bf18.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-a5911265de9664d46a5d110f70d9bf18.unwrap
-    projectPath: Temp\output-a5911265de9664d46a5d110f70d9bf18.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-ab920cfe9fbc06948a4a1893f50c0d6f.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-ab920cfe9fbc06948a4a1893f50c0d6f.unwrap
-    projectPath: Temp\output-ab920cfe9fbc06948a4a1893f50c0d6f.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-ae67ca983ce65fa4e966bb7997ccb81d.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-ae67ca983ce65fa4e966bb7997ccb81d.unwrap
-    projectPath: Temp\output-ae67ca983ce65fa4e966bb7997ccb81d.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-b0e1bd642cc7fb048841319b2d24a5e5.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-b0e1bd642cc7fb048841319b2d24a5e5.unwrap
-    projectPath: Temp\output-b0e1bd642cc7fb048841319b2d24a5e5.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-b37e8958739b9cb4c89c6a39eac4c34c.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-b37e8958739b9cb4c89c6a39eac4c34c.unwrap
-    projectPath: Temp\output-b37e8958739b9cb4c89c6a39eac4c34c.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-b57acd088336dd94bb8686a9ba417e1c.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-b57acd088336dd94bb8686a9ba417e1c.unwrap
-    projectPath: Temp\output-b57acd088336dd94bb8686a9ba417e1c.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-b83f4783e3488644dbcc4af6af323232.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-b83f4783e3488644dbcc4af6af323232.unwrap
-    projectPath: Temp\output-b83f4783e3488644dbcc4af6af323232.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-bae804fbc59aa9d468c29166262dac75.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-bae804fbc59aa9d468c29166262dac75.unwrap
-    projectPath: Temp\output-bae804fbc59aa9d468c29166262dac75.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-bd384b911b98af540b35670213dbe47f.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-bd384b911b98af540b35670213dbe47f.unwrap
-    projectPath: Temp\output-bd384b911b98af540b35670213dbe47f.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-bf7f2676f2f7f654b8ba4effc82156df.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-bf7f2676f2f7f654b8ba4effc82156df.unwrap
-    projectPath: Temp\output-bf7f2676f2f7f654b8ba4effc82156df.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-c0408fa9fe4a15045a05c1e78deb168a.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-c0408fa9fe4a15045a05c1e78deb168a.unwrap
-    projectPath: Temp\output-c0408fa9fe4a15045a05c1e78deb168a.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-c1ae3b88322bff14980d5b3379e5a7bd.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-c1ae3b88322bff14980d5b3379e5a7bd.unwrap
-    projectPath: Temp\output-c1ae3b88322bff14980d5b3379e5a7bd.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-c747d53ca0d179c418577ec1812f90ee.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-c747d53ca0d179c418577ec1812f90ee.unwrap
-    projectPath: Temp\output-c747d53ca0d179c418577ec1812f90ee.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-c8bfeb84c3bbe83488df13f927e3663c.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-c8bfeb84c3bbe83488df13f927e3663c.unwrap
-    projectPath: Temp\output-c8bfeb84c3bbe83488df13f927e3663c.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-cd4c6e9ae8f81954ab059b5de72249f0.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-cd4c6e9ae8f81954ab059b5de72249f0.unwrap
-    projectPath: Temp\output-cd4c6e9ae8f81954ab059b5de72249f0.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-d677b666a7cf783449874da4c934bc69.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-d677b666a7cf783449874da4c934bc69.unwrap
-    projectPath: Temp\output-d677b666a7cf783449874da4c934bc69.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-da86e28ac87caaa418623cc9aa48bc27.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-da86e28ac87caaa418623cc9aa48bc27.unwrap
-    projectPath: Temp\output-da86e28ac87caaa418623cc9aa48bc27.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-db6b5ef65eaa0694699a6b4c25fe846c.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-db6b5ef65eaa0694699a6b4c25fe846c.unwrap
-    projectPath: Temp\output-db6b5ef65eaa0694699a6b4c25fe846c.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-ded6bfa0babb3914490a908e2ce8728c.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-ded6bfa0babb3914490a908e2ce8728c.unwrap
-    projectPath: Temp\output-ded6bfa0babb3914490a908e2ce8728c.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-e87c5a7bd8e9af44487043b6ea6cddd7.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-e87c5a7bd8e9af44487043b6ea6cddd7.unwrap
-    projectPath: Temp\output-e87c5a7bd8e9af44487043b6ea6cddd7.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-e9c9ce09d9a884c42aa7ee2ce32ac414.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-e9c9ce09d9a884c42aa7ee2ce32ac414.unwrap
-    projectPath: Temp\output-e9c9ce09d9a884c42aa7ee2ce32ac414.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-eaf8d210c65ef1c4db7d2af104674f79.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-eaf8d210c65ef1c4db7d2af104674f79.unwrap
-    projectPath: Temp\output-eaf8d210c65ef1c4db7d2af104674f79.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-f460c541178a27f4f9793eee18076e61.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-f460c541178a27f4f9793eee18076e61.unwrap
-    projectPath: Temp\output-f460c541178a27f4f9793eee18076e61.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-f5358bc34c2da0846955a558a72efb99.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-f5358bc34c2da0846955a558a72efb99.unwrap
-    projectPath: Temp\output-f5358bc34c2da0846955a558a72efb99.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\output-fdb7142fbf0421f4381d187395ec595d.unwrap
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\output-fdb7142fbf0421f4381d187395ec595d.unwrap
-    projectPath: Temp\output-fdb7142fbf0421f4381d187395ec595d.unwrap
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityLockfile
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityLockfile
-    projectPath: Temp\UnityLockfile
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-0443e79fe5c74f74ab3f7466e1d70dd6
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-0443e79fe5c74f74ab3f7466e1d70dd6
-    projectPath: Temp\UnityTempFile-0443e79fe5c74f74ab3f7466e1d70dd6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-0509f5ccb2c8dc2468666d497e990444
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-0509f5ccb2c8dc2468666d497e990444
-    projectPath: Temp\UnityTempFile-0509f5ccb2c8dc2468666d497e990444
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-0cf7fd8d2aa7bd6428bb3960863fd01f
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-0cf7fd8d2aa7bd6428bb3960863fd01f
-    projectPath: Temp\UnityTempFile-0cf7fd8d2aa7bd6428bb3960863fd01f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-0f2d8b4c20772fd449eb43bd3dfb1465
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-0f2d8b4c20772fd449eb43bd3dfb1465
-    projectPath: Temp\UnityTempFile-0f2d8b4c20772fd449eb43bd3dfb1465
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-12833c315088e1e438b0eecd5150dd8d
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-12833c315088e1e438b0eecd5150dd8d
-    projectPath: Temp\UnityTempFile-12833c315088e1e438b0eecd5150dd8d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-1460cd17782da2444bb0fb556f56e56a
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-1460cd17782da2444bb0fb556f56e56a
-    projectPath: Temp\UnityTempFile-1460cd17782da2444bb0fb556f56e56a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-184238497096f6249b64b77195ae6fb7
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-184238497096f6249b64b77195ae6fb7
-    projectPath: Temp\UnityTempFile-184238497096f6249b64b77195ae6fb7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-1af4ff300a99b0440b353468c8bb7996
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-1af4ff300a99b0440b353468c8bb7996
-    projectPath: Temp\UnityTempFile-1af4ff300a99b0440b353468c8bb7996
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-1fdd8c07a0767c942bda892a9bb49977
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-1fdd8c07a0767c942bda892a9bb49977
-    projectPath: Temp\UnityTempFile-1fdd8c07a0767c942bda892a9bb49977
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-20ffaf012aa2bae4aa9fac8840dd615b
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-20ffaf012aa2bae4aa9fac8840dd615b
-    projectPath: Temp\UnityTempFile-20ffaf012aa2bae4aa9fac8840dd615b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-23b3c2885aa4b7b46890d6ad62d8f815
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-23b3c2885aa4b7b46890d6ad62d8f815
-    projectPath: Temp\UnityTempFile-23b3c2885aa4b7b46890d6ad62d8f815
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-2ff79324abe9e084bbd92f7b3b4dfc56
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-2ff79324abe9e084bbd92f7b3b4dfc56
-    projectPath: Temp\UnityTempFile-2ff79324abe9e084bbd92f7b3b4dfc56
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-327719846e23b9f4a871bfba1681df3e
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-327719846e23b9f4a871bfba1681df3e
-    projectPath: Temp\UnityTempFile-327719846e23b9f4a871bfba1681df3e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-39a2abd50ae5ee84d93838e9684f7b5f
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-39a2abd50ae5ee84d93838e9684f7b5f
-    projectPath: Temp\UnityTempFile-39a2abd50ae5ee84d93838e9684f7b5f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-42930f2c69eeb9d43ae4d389306db320
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-42930f2c69eeb9d43ae4d389306db320
-    projectPath: Temp\UnityTempFile-42930f2c69eeb9d43ae4d389306db320
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-43e3d7eb07b824d41adcead82d2795d8
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-43e3d7eb07b824d41adcead82d2795d8
-    projectPath: Temp\UnityTempFile-43e3d7eb07b824d41adcead82d2795d8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-4434264000d28a14780d5e0591f5ebac
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-4434264000d28a14780d5e0591f5ebac
-    projectPath: Temp\UnityTempFile-4434264000d28a14780d5e0591f5ebac
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-44c897b9b2aea5d4489c141986e7395e
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-44c897b9b2aea5d4489c141986e7395e
-    projectPath: Temp\UnityTempFile-44c897b9b2aea5d4489c141986e7395e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-4ac92d611fd34da419997a24bc4175a1
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-4ac92d611fd34da419997a24bc4175a1
-    projectPath: Temp\UnityTempFile-4ac92d611fd34da419997a24bc4175a1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-4ad4bb030da22204e87f211d0eec9be7
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-4ad4bb030da22204e87f211d0eec9be7
-    projectPath: Temp\UnityTempFile-4ad4bb030da22204e87f211d0eec9be7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-4d398825166e0dd46b945cdbe3dca9fb
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-4d398825166e0dd46b945cdbe3dca9fb
-    projectPath: Temp\UnityTempFile-4d398825166e0dd46b945cdbe3dca9fb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-500e2da28b8f1504890b0357c02f7bc5
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-500e2da28b8f1504890b0357c02f7bc5
-    projectPath: Temp\UnityTempFile-500e2da28b8f1504890b0357c02f7bc5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-54e7fb53206f71947a1387983919d223
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-54e7fb53206f71947a1387983919d223
-    projectPath: Temp\UnityTempFile-54e7fb53206f71947a1387983919d223
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-5768f832b279ea24f99f386a5aa4cbf1
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-5768f832b279ea24f99f386a5aa4cbf1
-    projectPath: Temp\UnityTempFile-5768f832b279ea24f99f386a5aa4cbf1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-5cc264b19311baf449089bf52b22ef7d
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-5cc264b19311baf449089bf52b22ef7d
-    projectPath: Temp\UnityTempFile-5cc264b19311baf449089bf52b22ef7d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-5d6d35cf8b6aeb44f9ade85aa58e8ade
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-5d6d35cf8b6aeb44f9ade85aa58e8ade
-    projectPath: Temp\UnityTempFile-5d6d35cf8b6aeb44f9ade85aa58e8ade
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-674a783eef8691f4a89e464cdcee3cd4
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-674a783eef8691f4a89e464cdcee3cd4
-    projectPath: Temp\UnityTempFile-674a783eef8691f4a89e464cdcee3cd4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-680d0ae303f67f044a83d4c1d826e190
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-680d0ae303f67f044a83d4c1d826e190
-    projectPath: Temp\UnityTempFile-680d0ae303f67f044a83d4c1d826e190
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-6a0fe1d8c2f43ff4cacb3d21002bdb23
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-6a0fe1d8c2f43ff4cacb3d21002bdb23
-    projectPath: Temp\UnityTempFile-6a0fe1d8c2f43ff4cacb3d21002bdb23
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-6e8ae05b4134fef4c9468d60159e3b2c
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-6e8ae05b4134fef4c9468d60159e3b2c
-    projectPath: Temp\UnityTempFile-6e8ae05b4134fef4c9468d60159e3b2c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-7c8f827292957f245b7fb6a70cc7e829
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-7c8f827292957f245b7fb6a70cc7e829
-    projectPath: Temp\UnityTempFile-7c8f827292957f245b7fb6a70cc7e829
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-81ea8e232fb94bc4e9cf56acf28e0872
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-81ea8e232fb94bc4e9cf56acf28e0872
-    projectPath: Temp\UnityTempFile-81ea8e232fb94bc4e9cf56acf28e0872
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-82035bf1c64cabd468e8a50dade84c43
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-82035bf1c64cabd468e8a50dade84c43
-    projectPath: Temp\UnityTempFile-82035bf1c64cabd468e8a50dade84c43
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-8e2a1b87fb6529a4fbd3e93e2d1debe9
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-8e2a1b87fb6529a4fbd3e93e2d1debe9
-    projectPath: Temp\UnityTempFile-8e2a1b87fb6529a4fbd3e93e2d1debe9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-8f1294b4f7399b445981fe556d0ac5c7
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-8f1294b4f7399b445981fe556d0ac5c7
-    projectPath: Temp\UnityTempFile-8f1294b4f7399b445981fe556d0ac5c7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-91648b1b7bd353b48bfd703e6b42858b
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-91648b1b7bd353b48bfd703e6b42858b
-    projectPath: Temp\UnityTempFile-91648b1b7bd353b48bfd703e6b42858b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-9ae152ab522de0441b0ed176f2affee5
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-9ae152ab522de0441b0ed176f2affee5
-    projectPath: Temp\UnityTempFile-9ae152ab522de0441b0ed176f2affee5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-9d42bc3f2031c9d45b315895bd2ac267
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-9d42bc3f2031c9d45b315895bd2ac267
-    projectPath: Temp\UnityTempFile-9d42bc3f2031c9d45b315895bd2ac267
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-a09042686ec6b11438e49cd0e9290294
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-a09042686ec6b11438e49cd0e9290294
-    projectPath: Temp\UnityTempFile-a09042686ec6b11438e49cd0e9290294
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-a1a877d822bc05640a5823b6ff9fab6f
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-a1a877d822bc05640a5823b6ff9fab6f
-    projectPath: Temp\UnityTempFile-a1a877d822bc05640a5823b6ff9fab6f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-a839d66667fe56d44af3ed2aaac24066
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-a839d66667fe56d44af3ed2aaac24066
-    projectPath: Temp\UnityTempFile-a839d66667fe56d44af3ed2aaac24066
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-a92fdada8b473164883607cf1711f87e
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-a92fdada8b473164883607cf1711f87e
-    projectPath: Temp\UnityTempFile-a92fdada8b473164883607cf1711f87e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b28e2f1dbb84c3b40908a77731848f76
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-b28e2f1dbb84c3b40908a77731848f76
-    projectPath: Temp\UnityTempFile-b28e2f1dbb84c3b40908a77731848f76
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b51993e089e5f4a449461226bcbfed97
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-b51993e089e5f4a449461226bcbfed97
-    projectPath: Temp\UnityTempFile-b51993e089e5f4a449461226bcbfed97
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b5ffe7312374ffd4d9f701d97e7341b5
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-b5ffe7312374ffd4d9f701d97e7341b5
-    projectPath: Temp\UnityTempFile-b5ffe7312374ffd4d9f701d97e7341b5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b90e877d3609a8a47aa368aab5dc4e41
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-b90e877d3609a8a47aa368aab5dc4e41
-    projectPath: Temp\UnityTempFile-b90e877d3609a8a47aa368aab5dc4e41
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-baddf8309a0474e4bb9418331fbe43fa
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-baddf8309a0474e4bb9418331fbe43fa
-    projectPath: Temp\UnityTempFile-baddf8309a0474e4bb9418331fbe43fa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-bbef78855d5af8d4186d440fa1ce2364
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-bbef78855d5af8d4186d440fa1ce2364
-    projectPath: Temp\UnityTempFile-bbef78855d5af8d4186d440fa1ce2364
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-bc5895ce8ff9ac6489b4ef4deccf912a
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-bc5895ce8ff9ac6489b4ef4deccf912a
-    projectPath: Temp\UnityTempFile-bc5895ce8ff9ac6489b4ef4deccf912a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-be4ee56e7cd8ff14eb82d7984f16571b
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-be4ee56e7cd8ff14eb82d7984f16571b
-    projectPath: Temp\UnityTempFile-be4ee56e7cd8ff14eb82d7984f16571b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-bf409d008cb929348a6a10487692c5de
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-bf409d008cb929348a6a10487692c5de
-    projectPath: Temp\UnityTempFile-bf409d008cb929348a6a10487692c5de
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-bfb68897c52874948a63a07e1a7c6e71
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-bfb68897c52874948a63a07e1a7c6e71
-    projectPath: Temp\UnityTempFile-bfb68897c52874948a63a07e1a7c6e71
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-c232f5468af16e841853abe967060745
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-c232f5468af16e841853abe967060745
-    projectPath: Temp\UnityTempFile-c232f5468af16e841853abe967060745
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-c3d7a5d229f5f764682e681ab88aa5b7
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-c3d7a5d229f5f764682e681ab88aa5b7
-    projectPath: Temp\UnityTempFile-c3d7a5d229f5f764682e681ab88aa5b7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-c430520ff77ca9f41a849f4bb4b43e22
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-c430520ff77ca9f41a849f4bb4b43e22
-    projectPath: Temp\UnityTempFile-c430520ff77ca9f41a849f4bb4b43e22
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-cde3124c81bb2004db066820e27ca677
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-cde3124c81bb2004db066820e27ca677
-    projectPath: Temp\UnityTempFile-cde3124c81bb2004db066820e27ca677
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d1a9c6ebf286b5f4b8e17d1f7ba53534
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-d1a9c6ebf286b5f4b8e17d1f7ba53534
-    projectPath: Temp\UnityTempFile-d1a9c6ebf286b5f4b8e17d1f7ba53534
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d1fd698d3292b074caa37af1b3cc21ed
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-d1fd698d3292b074caa37af1b3cc21ed
-    projectPath: Temp\UnityTempFile-d1fd698d3292b074caa37af1b3cc21ed
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d2b4e92883555df4b965242f685d9733
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-d2b4e92883555df4b965242f685d9733
-    projectPath: Temp\UnityTempFile-d2b4e92883555df4b965242f685d9733
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d41ef5a01fda49b478a4d2c9707d8582
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-d41ef5a01fda49b478a4d2c9707d8582
-    projectPath: Temp\UnityTempFile-d41ef5a01fda49b478a4d2c9707d8582
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d76121ccda0a19e4da1a0c61d5fb22b5
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-d76121ccda0a19e4da1a0c61d5fb22b5
-    projectPath: Temp\UnityTempFile-d76121ccda0a19e4da1a0c61d5fb22b5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e2f17e6d704276f44b11d933732c9a81
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-e2f17e6d704276f44b11d933732c9a81
-    projectPath: Temp\UnityTempFile-e2f17e6d704276f44b11d933732c9a81
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e3da57eeec3e32446807c830064d7b7b
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-e3da57eeec3e32446807c830064d7b7b
-    projectPath: Temp\UnityTempFile-e3da57eeec3e32446807c830064d7b7b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e5f1dd332a2c5a14e8ff5da37de6b659
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-e5f1dd332a2c5a14e8ff5da37de6b659
-    projectPath: Temp\UnityTempFile-e5f1dd332a2c5a14e8ff5da37de6b659
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e884ff142ba44754c8dc282c6bf13622
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-e884ff142ba44754c8dc282c6bf13622
-    projectPath: Temp\UnityTempFile-e884ff142ba44754c8dc282c6bf13622
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-ebb9fcad960f86841a06559e3a5ed5e9
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-ebb9fcad960f86841a06559e3a5ed5e9
-    projectPath: Temp\UnityTempFile-ebb9fcad960f86841a06559e3a5ed5e9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-ec5c4d1229158a944ad1888254c51021
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-ec5c4d1229158a944ad1888254c51021
-    projectPath: Temp\UnityTempFile-ec5c4d1229158a944ad1888254c51021
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f619f4fa6db179049957e3e7a3f0562e
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-f619f4fa6db179049957e3e7a3f0562e
-    projectPath: Temp\UnityTempFile-f619f4fa6db179049957e3e7a3f0562e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f69d69d68648ef44a8842336e3903387
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-f69d69d68648ef44a8842336e3903387
-    projectPath: Temp\UnityTempFile-f69d69d68648ef44a8842336e3903387
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f7b73746518b962498b5371094aa5f43
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-f7b73746518b962498b5371094aa5f43
-    projectPath: Temp\UnityTempFile-f7b73746518b962498b5371094aa5f43
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f86cb4cc156a785449b29584a678f1b1
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-f86cb4cc156a785449b29584a678f1b1
-    projectPath: Temp\UnityTempFile-f86cb4cc156a785449b29584a678f1b1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-fd8c4e05082a3d24ab81d9ed1475cd2a
-    fullPath: C:\Users\Admin\Documents\Game the Game RPG\Game-the-Game\Temp\UnityTempFile-fd8c4e05082a3d24ab81d9ed1475cd2a
-    projectPath: Temp\UnityTempFile-fd8c4e05082a3d24ab81d9ed1475cd2a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
