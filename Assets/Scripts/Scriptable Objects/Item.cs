@@ -8,25 +8,34 @@ public class Item : ScriptableObject
 {
     public enum EquipmentSlot
     {
+
         Head,
         Horns,
         Neck,
-        Shooulder,
-        UpperArm,
-        LowerArm,
-        Hand,
+        ShoulderL,
+        ShoulderR,
+        UpperArmL,
+        UpperArmR,
+        LowerArmL,
+        LowerArmR,
+        HandL,
+        HandR,
         WeaponL,
         WeaponR,
         Torso,
         UpperStomach,
         Belt,
         Groin,
-        UpperLeg,
-        Shin,
-        Ankle,
+        UpperLegL,
+        UpperLegR,
+        ShinL,
+        ShinR,
+        AnkleL,
+        AnkleR,
         Backpack,
         Staff,
         Bow,
+        Shield,
         None
     }
 
