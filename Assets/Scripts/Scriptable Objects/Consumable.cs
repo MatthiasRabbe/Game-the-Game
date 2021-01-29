@@ -50,6 +50,26 @@ public class Consumable : Item
     {
         return healingAmount;
     }
-  
+
+    public virtual void Consume(Object stats)
+    {
+        if (!isUsedUp && stats is Stats && canHeal)
+        {
+            Stats playerStats = (Stats)stats;
+            playerStats.Heal(healingAmount);
+            isUsedUp = true;
+
+            sellValue = (int)(sellValue * 0.2f);
+        }
+        if (!isUsedUp && stats is NPCStats && canHeal)
+        {
+            NPCStats npcStats = (NPCStats)stats;
+            npcStats.Heal(healingAmount);
+            isUsedUp = true;
+
+            sellValue = (int)(sellValue * 0.2f);
+        }
+
+    }
 
 }

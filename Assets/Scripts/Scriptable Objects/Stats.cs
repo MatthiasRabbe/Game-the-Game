@@ -164,7 +164,7 @@ public class Stats : MonoBehaviour
         }
     }
 
-    public void Healing(int healing)
+    public void Heal(float healing)
     {
         currentHitpoints += healing;
 

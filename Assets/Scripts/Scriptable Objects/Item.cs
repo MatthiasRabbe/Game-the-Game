@@ -8,18 +8,25 @@ public class Item : ScriptableObject
 {
     public enum EquipmentSlot
     {
-        Helmet,
+        Head,
         Horns,
         Neck,
-        Shoudler,
+        Shooulder,
         UpperArm,
         LowerArm,
         Hand,
+        WeaponL,
+        WeaponR,
+        Torso,
+        UpperStomach,
         Belt,
         Groin,
         UpperLeg,
         Shin,
+        Ankle,
         Backpack,
+        Staff,
+        Bow,
         None
     }
 
@@ -68,4 +75,16 @@ public class Item : ScriptableObject
     {
         return itemName;
     }
+
+    public virtual void ApplyStats()
+    {
+        //does nothing for unequipable Items
+    }
+
+    public virtual void RemoveStats()
+    {
+        //does nothing for unequipable Items
+    }
+
+   
 }
