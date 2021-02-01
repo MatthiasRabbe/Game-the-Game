@@ -95,6 +95,5 @@ public class Item : ScriptableObject
         //does nothing for unequipable Items
     }
 
-
+   
 }
-

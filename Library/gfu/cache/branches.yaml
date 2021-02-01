@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-02-01T11:28:37.474+01:00
-  initializedAtString: 2021-02-01T11:28:37.435+01:00
+  lastUpdatedAtString: 2021-02-01T14:06:05.969+01:00
+  initializedAtString: 2021-02-01T14:06:05.911+01:00
   localBranches:
   - name: Dozent
     tracking: origin/Dozent
@@ -24,6 +24,8 @@ MonoBehaviour:
     tracking: origin/master
   remoteBranches:
   - name: origin/Dozent
+    tracking: '[None]'
+  - name: "origin/Gruppe5-St\xE4hle"
     tracking: '[None]'
   - name: origin/HEAD
     tracking: '[None]'
@@ -64,11 +66,17 @@ MonoBehaviour:
     subKeys:
     - Values:
       - Dozent
+      - "Gruppe5-St\xE4hle"
       - HEAD
       - master
     subKeyValues:
     - Values:
       - name: Dozent
+        remote:
+          name: origin
+          url: https://github.com/JackStreicher/Game-the-Game.git
+        trackingBranch: 
+      - name: "Gruppe5-St\xE4hle"
         remote:
           name: origin
           url: https://github.com/JackStreicher/Game-the-Game.git

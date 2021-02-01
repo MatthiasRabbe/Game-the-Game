@@ -293,7 +293,7 @@ GameObject:
   - component: {fileID: 61868814}
   - component: {fileID: 61868813}
   m_Layer: 0
-  m_Name: OasenWasser (2)
+  m_Name: Portal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -311,9 +311,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d52d76d53dc818f4da75eb6c574131d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  power: 0.87
-  scale: 3.25
-  timeScale: 0.62
+  power: 3
+  scale: 1
+  timeScale: 1
 --- !u!114 &61868814
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4104,8 +4104,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d52d76d53dc818f4da75eb6c574131d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  power: 4.46
-  scale: 3.89
+  power: 5.04
+  scale: 4.11
   timeScale: 1
 --- !u!114 &920616274
 MonoBehaviour:
@@ -4119,8 +4119,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d608605954eb954791836fecdb39921, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  size: 2000
-  gridSize: 200
+  size: 3000
+  gridSize: 300
 --- !u!23 &920616275
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5149,9 +5149,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d52d76d53dc818f4da75eb6c574131d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  power: 0.87
-  scale: 3.25
-  timeScale: 0.62
+  power: 1.22
+  scale: 2.62
+  timeScale: 0.94
 --- !u!114 &1315478950
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6569,9 +6569,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d52d76d53dc818f4da75eb6c574131d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  power: 0.87
-  scale: 3.25
-  timeScale: 0.62
+  power: 0.73
+  scale: 2.95
+  timeScale: 0.91
 --- !u!114 &1585881650
 MonoBehaviour:
   m_ObjectHideFlags: 0

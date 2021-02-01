@@ -16,9 +16,9 @@ public class Armor : Item
     private Stats playerStats;
 
     public void Start()
-    {
+    {   
         playerStats = GameObject.Find("Player").GetComponent<Stats>();
-
+        
     }
 
 
@@ -30,10 +30,9 @@ public class Armor : Item
         {
             playerStats = GameObject.Find("Player").GetComponent<Stats>();
         }
-        if (!statsApplied)
-        {
+        if (!statsApplied) {
             playerStats.IncreaseArmor(armorValue);
-            playerStats.AddHealth(healthModifier);
+            playerStats.AddHealth (healthModifier);
             playerStats.AddStamina(staminaModifier);
             statsApplied = true;
         }
