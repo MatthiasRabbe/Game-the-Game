@@ -16,11 +16,7 @@ public class UIControler : MonoBehaviour
         panelName = panel.name;
     }
 
-    private void Start()
-    {
-        panel.SetActive(true);
-        StartCoroutine(ExitUIAfterDelay(0.1f));
-    }
+  
 
 
 
@@ -53,14 +49,5 @@ public class UIControler : MonoBehaviour
         panelToClose.SetActive(false);
     }
 
-
-    IEnumerator ExitUIAfterDelay(float time)
-    {
-
-        yield return new WaitForSeconds(time);
-
-        panel.SetActive(false);
-
-    }
 
 }

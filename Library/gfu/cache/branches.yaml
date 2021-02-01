@@ -13,13 +13,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-01-26T14:57:22.831+01:00
-  initializedAtString: 2021-01-26T14:03:05.162+01:00
+  lastUpdatedAtString: 2021-02-01T11:28:37.474+01:00
+  initializedAtString: 2021-02-01T11:28:37.435+01:00
   localBranches:
   - name: Dozent
     tracking: origin/Dozent
+  - name: "Gruppe5-St\xE4hle"
+    tracking: "origin/Gruppe5-St\xE4hle"
+  - name: master
+    tracking: origin/master
   remoteBranches:
   - name: origin/Dozent
+    tracking: '[None]'
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
@@ -32,21 +40,45 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - Dozent
+    - "Gruppe5-St\xE4hle"
+    - master
     values:
     - name: Dozent
       remote:
         name: origin
         url: https://github.com/JackStreicher/Game-the-Game.git
       trackingBranch: Dozent
+    - name: "Gruppe5-St\xE4hle"
+      remote:
+        name: origin
+        url: https://github.com/JackStreicher/Game-the-Game.git
+      trackingBranch: "Gruppe5-St\xE4hle"
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/JackStreicher/Game-the-Game.git
+      trackingBranch: master
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
       - Dozent
+      - HEAD
+      - master
     subKeyValues:
     - Values:
       - name: Dozent
+        remote:
+          name: origin
+          url: https://github.com/JackStreicher/Game-the-Game.git
+        trackingBranch: 
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/JackStreicher/Game-the-Game.git
+        trackingBranch: 
+      - name: master
         remote:
           name: origin
           url: https://github.com/JackStreicher/Game-the-Game.git

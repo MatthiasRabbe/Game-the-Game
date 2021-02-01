@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-01-26T15:08:03.645+01:00
-  initializedAtString: 2021-01-26T15:08:03.645+01:00
+  lastUpdatedAtString: 2021-02-01T11:28:36.486+01:00
+  initializedAtString: 2021-02-01T11:28:36.486+01:00
   currentGitRemote:
     name: origin
     url: https://github.com/JackStreicher/Game-the-Game.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: Dozent
-    tracking: origin/Dozent
+    name: "Gruppe5-St\xE4hle"
+    tracking: "origin/Gruppe5-St\xE4hle"
   currentConfigBranch:
-    name: Dozent
+    name: "Gruppe5-St\xE4hle"
     remote:
       name: origin
       url: https://github.com/JackStreicher/Game-the-Game.git
-    trackingBranch: Dozent
+    trackingBranch: "Gruppe5-St\xE4hle"
   currentConfigRemote:
     name: origin
     url: https://github.com/JackStreicher/Game-the-Game.git
