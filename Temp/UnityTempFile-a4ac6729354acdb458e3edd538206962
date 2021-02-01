@@ -8,7 +8,6 @@
 /preferreduilang:en-US
 /langversion:latest
 /reference:Library/ScriptAssemblies/Assembly-CSharp.dll
-/reference:Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
 /reference:"C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll"
 /reference:"C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll"
 /reference:"C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/Managed/UnityEngine/UnityEngine.ARModule.dll"
@@ -70,6 +69,7 @@
 /reference:"C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll"
 /reference:"C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll"
 /reference:"C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/Managed/UnityEditor.dll"
+/reference:Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
 /reference:Library/ScriptAssemblies/UnityEditor.TestRunner.dll
 /reference:Library/ScriptAssemblies/UnityEngine.TestRunner.dll
 /reference:Library/ScriptAssemblies/Unity.Timeline.Editor.dll
