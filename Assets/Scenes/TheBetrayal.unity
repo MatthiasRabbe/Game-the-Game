@@ -7273,6 +7273,11 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1979012648, guid: 2e28d664ea6d8204ca7fa46af2727cfe, type: 3}
+      propertyPath: playerRef
+      value: 
+      objectReference: {fileID: 11400000, guid: 62ce7681913e9d647bf1c0b0c3c1617f,
+        type: 2}
     - target: {fileID: 1100838043424612864, guid: 2e28d664ea6d8204ca7fa46af2727cfe,
         type: 3}
       propertyPath: m_RootOrder
