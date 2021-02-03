@@ -15,7 +15,6 @@ public class Questlog : MonoBehaviour
     public UpdateUIQuestList uiQuestList;
     public GlobalQuestList globalQuestList;
 
-    int counter = 0;
 
     public void Start()
     {
@@ -24,23 +23,6 @@ public class Questlog : MonoBehaviour
         //uiQuestList = GameObject.Find("QuestlogContent").GetComponent<UpdateUIQuestList>();
 
         UpdateLocalQuestlist();
-    }
-
-
-    private void FixedUpdate()
-    {
-        if (counter < 50)
-        {
-            counter++;
-        }
-        else
-        {
-            UpdateLocalQuestlist();
-            counter = 0;
-        }
-
-
-
     }
 
     private void UpdateLocalQuestlist()
@@ -144,11 +126,12 @@ public class Questlog : MonoBehaviour
             quest.ResetQuest();
         }
 
-        questList.Remove(quest);
+        //questList.Remove(quest);
         quest.isQuestAccepted = false;
 
         UpdateLocalQuestlist();
-        
+
+
     }
 
     public void AddQuest(Quest newQuest)

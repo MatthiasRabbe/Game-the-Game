@@ -6,10 +6,8 @@ using UnityEngine.SceneManagement;
 
 public class Stats : MonoBehaviour
 {
-    //public static Stats Instance;
-
-
-    Vector3 playerPos;
+    public static Stats Instance;
+    
 
     [SerializeField]
     public int gold;
@@ -47,23 +45,20 @@ public class Stats : MonoBehaviour
     [SerializeField]
     public string characterName;
 
-    public PlayerReference playerRef;
-
     [SerializeField]
     public int[] levelProgressionArray = {100 , 500 , 750, 1200, 1800, 2500, 3000,
                                             4000, 5000, 6500, 7500, 8200, 9000, 10500,
                                                 12000, 15000, 20000, 25000 ,29000, 300000 };
-    bool isGettingTime;
 
-   // private void Awake()
-   // {
-   //     Instance = this;
-   //     DontDestroyOnLoad(this);
-   // }
-   //
+
+    private void Awake()
+    {
+        Instance = this;
+        DontDestroyOnLoad(this);
+    }
+
     public void Start()
     {
-        playerRef.player = this.transform.gameObject;
         if (experienceGainBonus <= 0)
             experienceGainBonus = 1;
 
@@ -72,22 +67,7 @@ public class Stats : MonoBehaviour
 
         currentExperience = baseExperience;
     }
-
-    private void Update()
-    {
-        if (isGettingTime)
-            StartCoroutine(GetPlayerPos(1f));
-    }
-
-    IEnumerator GetPlayerPos(float time)
-    {
-        isGettingTime = true;
-        yield return new WaitForSeconds(time);
-
-        playerPos = this.transform.position;
-
-        isGettingTime = false;
-    }
+  
 
     public void AddExperience(int xP)
     {
@@ -184,7 +164,7 @@ public class Stats : MonoBehaviour
         }
     }
 
-    public void Heal(float healing)
+    public void Healing(int healing)
     {
         currentHitpoints += healing;
 
