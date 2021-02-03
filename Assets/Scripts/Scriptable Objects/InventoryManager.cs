@@ -89,28 +89,24 @@ public class InventoryManager : ScriptableObject
 
         for (int i = 0; i < inventoryItems.Length; i++)
         {
+            if (inventoryItems[i].name == item.name && inventoryItemAmount[i] - amount >= 0)
+            {
+                inventoryItemAmount[i] -= amount;
 
-            if(inventoryItems[i] != null) {
-                if (inventoryItems[i].name == item.name && inventoryItemAmount[i] - amount >= 0)
+                if (inventoryItemAmount[i] <= 0)
                 {
+                    inventoryItemAmount[i] = 0;
 
-                    inventoryItemAmount[i] -= amount;
-                  
-                    if (inventoryItemAmount[i] <= 0)
-                    {
-                        inventoryItemAmount[i] = 0;
-
-                        inventoryItems[i] = null;
-                    }
-
-                    operationSuccessfull = true;
-                    break;
+                    inventoryItems[i] = null;
                 }
-                else
-                {
-                    operationSuccessfull = false;
 
-                }
+                operationSuccessfull = true;
+                break;
+            }
+            else
+            {
+                operationSuccessfull = false;
+
             }
         }
 
