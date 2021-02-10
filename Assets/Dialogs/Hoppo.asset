@@ -18,4 +18,5 @@ MonoBehaviour:
   - Ich habe alle meine Mitarbeiter verloren...
   - Meine Ernte wird schlecht.
   awaitingQuestCompletion: Kannst du mir dabei helfen?
-  quest: {fileID: 11400000, guid: f35c60537cb64834cbc6cacf97db8127, type: 2}
+  questDone: well done
+  quest: {fileID: 11400000, guid: 4d0bab71eeed84241854096b0899c309, type: 2}

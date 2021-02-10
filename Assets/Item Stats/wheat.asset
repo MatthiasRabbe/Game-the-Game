@@ -18,5 +18,5 @@ MonoBehaviour:
   itemPrefab: {fileID: 8295201602001804406, guid: e9f6b60ff40f6c3479559d81eea1523d,
     type: 3}
   itemImage: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
-  stacksize: 1
+  stacksize: 10
   equipmentSlot: 27

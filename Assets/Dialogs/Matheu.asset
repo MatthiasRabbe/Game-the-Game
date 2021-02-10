@@ -18,4 +18,5 @@ MonoBehaviour:
   - "Ich h\xF6rte du suchst eine Blume."
   - Ich kann dir sie geben wenn du mir Wasser aus dem Dorf bringst.
   awaitingQuestCompletion: Nun?
-  quest: {fileID: 11400000, guid: 9cefef6febec4d0409d8c4051865f1d5, type: 2}
+  questDone: Thank you. But I'm currently not thirsty.
+  quest: {fileID: 11400000, guid: 842f0207274b7104a91d3076fd1f3a1a, type: 2}
