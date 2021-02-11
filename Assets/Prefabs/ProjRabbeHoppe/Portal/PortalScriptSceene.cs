@@ -5,12 +5,14 @@ using UnityEngine.SceneManagement;
 
 public class PortalScriptSceene : MonoBehaviour
 {
-    Scene scene = SceneManager.GetActiveScene();
+    Scene scene;
     public AudioSource source;
     // Start is called before the first frame update
     void Start()
     {
         source = GetComponent<AudioSource>();
+        Debug.Log(scene.name);
+        scene = SceneManager.GetActiveScene();
     }
 
     private void OnTriggerEnter(Collider other)
@@ -18,10 +20,14 @@ public class PortalScriptSceene : MonoBehaviour
         if(scene.name == "Level 2")
         {
             SceneManager.LoadScene("The Crossing");
+
+            Debug.Log(scene.name);
         }
         else
         {
             SceneManager.LoadScene("Level 2");
+
+            Debug.Log(scene.name);
         }
         
         source.Play();
